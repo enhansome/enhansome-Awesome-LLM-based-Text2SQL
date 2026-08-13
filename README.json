@@ -1,0 +1,1027 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "📜 Catalog"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📈 Trends"
+    },
+    {
+      "description": "In the era of LLMs, two benchmarks and their variants/extensions are widely recognized for evaluating text-to-SQL capabilities. We will continually update the top five methods on each benchmark to showcase the latest advances in the text-to-SQL community. These benchmarks, along with other text-to-SQL dataset papers, are listed in the datasets section below.",
+      "items": [],
+      "title": "🏆 Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "BIRD - A Big Bench for Large-Scale Database Grounded Text-to-SQL"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Spider1.0 - Semantic Parsing and Text-to-SQL Challenge"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Spider2.0 - Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "BIRD-CRITIC - Can LLMs Fix User Issues in Real-World Database Applications?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "BIRD-INTERACT - Re-imagining Text-to-SQL Evaluation via Lens of Dynamic Interactions"
+    },
+    {
+      "description": "We categorize the datasets into Original Datasets and Post-annotated Datasets based on whether they were released with the original dataset (question–SQL pairs) and databases, or were developed by adapting existing datasets and databases with special settings. The Post-annotated Datasets rely on the databases from Spider 1.0. For each original dataset, we list its characteristics, number of examples, and number of databases under the dataset title.",
+      "items": [],
+      "title": "🗃️ Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WikiSQL | Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning [Paper",
+          "description": "] [Code] [Dataset] Cross-domain; #Example: 80,654; #DB: 26,521",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2025-10-06T11:06:57Z",
+            "owner": "salesforce",
+            "repo": "WikiSQL",
+            "stars": 1806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BIRD-CRITIC | SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications [Paper",
+          "description": "] [Code] [Dataset] Knowledge-augmented, Long-context; #Example: 600; #DB: 95",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-23T23:05:33Z",
+            "owner": "bird-bench",
+            "repo": "BIRD-CRITIC-1",
+            "stars": 1098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spider | Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task [Paper",
+          "description": "] [Code] [Dataset] Cross-domain; #Example: 10,181; #DB: 200",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-29T03:16:42Z",
+            "owner": "taoyds",
+            "repo": "spider",
+            "stars": 1095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BIRD-INTERACT | BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation for Large Language Models via Lens of Dynamic Interactions [Paper",
+          "description": "] [Code] [Dataset]Long-context, Interaction; #Example: 600; #DB: 95",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-29T07:54:22Z",
+            "owner": "bird-bench",
+            "repo": "BIRD-Interact",
+            "stars": 1010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spider2.0 | Spider 2.0: Evaluating Language Models on Real-world Enterprise Text-to-SQL Workflows [Paper",
+          "description": "] [Code] [Dataset] Knowledge-augmented, Long-context; #Example: 632; #DB: 213",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T13:01:36Z",
+            "owner": "xlang-ai",
+            "repo": "Spider2",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQUALL | On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries [Paper",
+          "description": "] [Code] Cross-domain, Cross-lingual; #Example: 11,468; #DB: 1,679",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-09T20:59:12Z",
+            "owner": "tzshi",
+            "repo": "squall",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BULL | FinSQL: Model-Agnostic LLMs-based Text-to-SQL Framework for Financial Analysis [Paper",
+          "description": "] [Code] [Dataset] Knowledge-augmented, Long-context; #Example: 4,966; #DB: 3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-08T02:10:51Z",
+            "owner": "bigbigwatermalon",
+            "repo": "FinSQL",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KaggleDBQA | KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers [Paper",
+          "description": "] [Code] [Dataset] Cross-domain; #Example: 272; #DB: 8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-20T17:49:43Z",
+            "owner": "Chia-Hsuan-Lee",
+            "repo": "KaggleDBQA",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoSQL | CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases [Paper",
+          "description": "] [Code] [Dataset] Cross-domain, Context-dependent; #Example: 15,598; #DB: 200",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-22T19:56:41Z",
+            "owner": "taoyds",
+            "repo": "cosql",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Original Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ADVETA | Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation [Paper",
+          "description": "] [Code] [Dataset] Robustness; Adversarial table perturbation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-10T02:14:43Z",
+            "owner": "microsoft",
+            "repo": "ContextualSP",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSpider | A Pilot Study for Chinese SQL Semantic Parsing [Paper",
+          "description": "] [Code]Cross-lingual; Chinese version of Spider",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-12T12:00:08Z",
+            "owner": "taolusi",
+            "repo": "chisp",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SParC | SParC: Cross-Domain Semantic Parsing in Context [Paper",
+          "description": "] [Code] [Dataset]Context-dependent; Annotate conversational contents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-24T09:02:29Z",
+            "owner": "taoyds",
+            "repo": "sparc",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spider-Vietnamese | A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese [Paper",
+          "description": "] [Code] Cross-lingual; Vietnamese version of Spider",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-22T13:51:42Z",
+            "owner": "VinAIResearch",
+            "repo": "ViText2SQL",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dr. Spider | Dr.Spider: A Diagnostic Evaluation Benchmark towards Text-to-SQL Robustness [Paper",
+          "description": "] [Code] Robustness; Perturbations in DB, query and SQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-03T20:35:05Z",
+            "owner": "awslabs",
+            "repo": "diagnostic-robustness-text-to-sql",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spider-SYN | Towards Robustness of Text-to-SQL Models against Synonym Substitution [Paper",
+          "description": "] [Code]Knowledge-augmented; Adding domain knowledge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-22T17:04:10Z",
+            "owner": "ygan",
+            "repo": "Spider-Syn",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spider-SS&CG | Measuring and Improving Compositional Generalization in Text-to-SQL via Component Alignment [Paper",
+          "description": "] [Code] [Dataset] Context-dependent; Splitting example into sub-examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-04T06:48:44Z",
+            "owner": "ygan",
+            "repo": "SpiderSS-SpiderCG",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spider-DK | Exploring Underexplored Limitations of Cross-Domain Text-to-SQL Generalization [Paper",
+          "description": "] [Code]Knowledge-augmented; Adding domain knowledge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-20T15:30:47Z",
+            "owner": "ygan",
+            "repo": "Spider-DK",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Post-annotated Datasets"
+    },
+    {
+      "description": "The implementation of recent LLM-based text-to-SQL methods primarily relies on in-context learning and fine-tuning, enabled by the release of both powerful proprietary and well-architected open-source LLMs. A detailed categorization of text-to-SQL methods can be found in our paper, and subsequent latest research papers will be continually updated and aligned with this taxonomy.",
+      "items": [],
+      "title": "🪴 Taxonomy"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spider 2.0: Evaluating Language Models on Real-world Enterprise Text-to-SQL Workflows [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T13:01:36Z",
+            "owner": "xlang-ai",
+            "repo": "Spider2",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-07T03:42:22Z",
+            "owner": "BeachWang",
+            "repo": "DAIL-SQL",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentar-Scale-SQL: Advancing Text-to-SQL through Orchestrated Test-Time Scaling [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T08:20:56Z",
+            "owner": "antgroup",
+            "repo": "Agentar-Scale-SQL",
+            "stars": 456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-30T13:41:47Z",
+            "owner": "MohammadrezaPourreza",
+            "repo": "Few-shot-NL2SQL-with-prompting",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StructGPT: A General Framework for Large Language Model to Reason over Structured Data [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-28T13:19:07Z",
+            "owner": "RUCAIBox",
+            "repo": "StructGPT",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-27T04:02:02Z",
+            "owner": "wbbeyourself",
+            "repo": "MAC-SQL",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHESS: Contextual Harnessing for Efficient SQL Synthesis [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-26T21:26:00Z",
+            "owner": "ShayanTalaei",
+            "repo": "CHESS",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C3: Zero-shot Text-to-SQL with ChatGPT [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-06T07:14:25Z",
+            "owner": "bigbigwatermalon",
+            "repo": "C3SQL",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSL-SQL: Robust Schema Linking in Text-to-SQL Generation [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-17T03:09:23Z",
+            "owner": "Laqcce-cao",
+            "repo": "RSL-SQL",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReFoRCE: A Text-to-SQL Agent with Self-Refinement, Consensus Enforcement, and Column Exploration [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-01T19:36:25Z",
+            "owner": "Snowflake-Labs",
+            "repo": "ReFoRCE",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PET-SQL: A Prompt-Enhanced Two-Round Refinement of Text-to-SQL with Cross-consistency [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-06T09:07:31Z",
+            "owner": "zhshLii",
+            "repo": "PETSQL",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEVER: Learning to Verify Language-to-Code Generation with Execution [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-05T09:06:23Z",
+            "owner": "niansong1996",
+            "repo": "lever",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinkAlign: Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-18T17:09:11Z",
+            "owner": "Satissss",
+            "repo": "LinkAlign",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-12T13:19:36Z",
+            "owner": "CycloneBoy",
+            "repo": "csc_sql",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-18T12:37:28Z",
+            "owner": "quge2023",
+            "repo": "TA-SQL",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-07T16:17:55Z",
+            "owner": "HasanAlpCaferoglu",
+            "repo": "E-SQL",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-05T13:22:42Z",
+            "owner": "FlyingFeather",
+            "repo": "DEA-SQL",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural Language to Code Translation with Execution [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-11-02T23:10:13Z",
+            "owner": "facebookresearch",
+            "repo": "mbr-exec",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-29T13:36:06Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "Middleware",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaSQL: A Generate-then-Rank Framework for Natural Language to SQL Translation [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-09T02:33:52Z",
+            "owner": "Kaimary",
+            "repo": "MetaSQL",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gen-SQL: Efficient Text-to-SQL by Bridging Natural Language Question and Database Schema with Pseudo-Schema [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-09T06:09:02Z",
+            "owner": "jieshi10",
+            "repo": "gensql",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACT-SQL: In-Context Learning for Text-to-SQL with Automatically-Generated Chain-of-Thought [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-11T07:09:39Z",
+            "owner": "X-LANCE",
+            "repo": "text2sql-GPT",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-22T18:13:17Z",
+            "owner": "mercatorhq",
+            "repo": "dubo-sql",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAGIC: Generating Self-Correction Guideline for In-Context Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-12-20T15:20:57Z",
+            "owner": "microsoft",
+            "repo": "SynQo",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selective Demonstrations for Cross-domain Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-10T20:15:57Z",
+            "owner": "shuaichenchang",
+            "repo": "ODIS-Text-to-SQL",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Demonstration Diversity by Human-Free Fusing for Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-11T03:02:21Z",
+            "owner": "zirui-HIT",
+            "repo": "Fused",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-26T19:52:52Z",
+            "owner": "Rcrossmeister",
+            "repo": "Knowledge-to-SQL",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ℛ³: \"This is My SQL, Are You With Me?\" A Consensus-Based Multi-Agent System for Text-to-SQL Tasks [Paper",
+          "description": "] [Code]",
+          "children": []
+        }
+      ],
+      "title": "In-context Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Preview of XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-18T11:19:51Z",
+            "owner": "XGenerationLab",
+            "repo": "XiYan-SQL",
+            "stars": 1018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-07T03:42:22Z",
+            "owner": "BeachWang",
+            "repo": "DAIL-SQL",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-08T11:09:09Z",
+            "owner": "RUCKBReasoning",
+            "repo": "OmniSQL",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLLMs: Consistency Large Language Models [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-16T04:05:39Z",
+            "owner": "hao-ai-lab",
+            "repo": "Consistency_LLM",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-27T04:02:02Z",
+            "owner": "wbbeyourself",
+            "repo": "MAC-SQL",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeS: Towards Building Open-source Language Models for Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-20T06:47:14Z",
+            "owner": "RUCKBReasoning",
+            "repo": "codes",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MARS-SQL: A multi-agent reinforcement learning framework for Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:15:32Z",
+            "owner": "YangHaolin0526",
+            "repo": "MARS-SQL",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StructLM: Towards Building Generalist Models for Structured Knowledge Grounding [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-19T20:36:03Z",
+            "owner": "TIGER-AI-Lab",
+            "repo": "StructLM",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-10T04:56:22Z",
+            "owner": "xufangzhi",
+            "repo": "Symbol-LLM",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DTS-SQL: Decomposed Text-to-SQL with Small Large Language Models [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-29T00:41:51Z",
+            "owner": "MohammadrezaPourreza",
+            "repo": "DTS-SQL",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSc-SQL: Multi-Sample Critiquing Small Language Models For Text-To-SQL Translation [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T17:55:54Z",
+            "owner": "layer6ai-labs",
+            "repo": "msc-sql",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-15T07:07:20Z",
+            "owner": "D2I-ai",
+            "repo": "Route",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-22T18:13:17Z",
+            "owner": "mercatorhq",
+            "repo": "dubo-sql",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SHARE: An SLM-based Hierarchical Action CorREction Assistant for Text-to-SQL [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-03T12:34:26Z",
+            "owner": "quge2023",
+            "repo": "SHARE",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSQL: Data-Efficient Text-to-SQL for Open-Source LLMs via Synthesized Intermediate Supervision [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T07:48:22Z",
+            "owner": "TsinghuaDatabaseGroup",
+            "repo": "OpenSQL",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Fine-tuning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DB-GPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T09:31:45Z",
+            "owner": "eosphoros-ai",
+            "repo": "DB-GPT",
+            "stars": 19717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLGlot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:47:36Z",
+            "owner": "tobymao",
+            "repo": "sqlglot",
+            "stars": 9526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLChat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T03:03:56Z",
+            "owner": "sqlchat",
+            "repo": "sqlchat",
+            "stars": 5846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Text2SQL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-26T01:46:37Z",
+            "owner": "eosphoros-ai",
+            "repo": "Awesome-Text2SQL",
+            "stars": 3734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DB-GPT-Hub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-02T03:39:31Z",
+            "owner": "eosphoros-ai",
+            "repo": "DB-GPT-Hub",
+            "stars": 2004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PremSQL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-14T17:41:42Z",
+            "owner": "premAI-io",
+            "repo": "premsql",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolicyStrata",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T08:10:48Z",
+            "owner": "raintree-technology",
+            "repo": "policystrata",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "📦 Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📃 Citation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:03:38.839Z",
+    "original_repository": "DEEP-PolyU/Awesome-LLM-based-Text2SQL",
+    "original_repository_sha": "b79ff69e6f6adee45e947cfea267136d808594a5",
+    "enhanced_repository": "enhansome/enhansome-Awesome-LLM-based-Text2SQL",
+    "enhanced_repository_description": null,
+    "title": "Awesome-LLM-based-Text2SQL with stars"
+  }
+}
