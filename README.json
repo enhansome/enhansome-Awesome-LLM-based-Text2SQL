@@ -342,7 +342,7 @@
             "last_commit": "2026-05-09T08:20:56Z",
             "owner": "antgroup",
             "repo": "Agentar-Scale-SQL",
-            "stars": 459
+            "stars": 460
           }
         },
         {
@@ -788,7 +788,7 @@
             "last_commit": "2026-08-12T12:15:32Z",
             "owner": "YangHaolin0526",
             "repo": "MARS-SQL",
-            "stars": 150
+            "stars": 88
           }
         },
         {
@@ -920,7 +920,7 @@
             "last_commit": "2026-08-14T02:00:10Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19726
+            "stars": 19730
           }
         },
         {
@@ -931,10 +931,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:31:06Z",
+            "last_commit": "2026-08-15T02:18:15Z",
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9528
+            "stars": 9531
           }
         },
         {
@@ -962,7 +962,7 @@
             "last_commit": "2026-01-26T01:46:37Z",
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3735
+            "stars": 3736
           }
         },
         {
@@ -976,7 +976,7 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2004
+            "stars": 2005
           }
         },
         {
@@ -1017,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T13:58:12.160Z",
+    "last_updated": "2026-08-15T13:10:47.285Z",
     "original_repository": "DEEP-PolyU/Awesome-LLM-based-Text2SQL",
     "original_repository_sha": "b79ff69e6f6adee45e947cfea267136d808594a5",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-based-Text2SQL",
