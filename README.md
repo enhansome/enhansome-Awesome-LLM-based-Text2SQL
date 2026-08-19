@@ -261,7 +261,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 ## 📦 Projects
 
 * [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) ⭐ 19,756 | 🐛 428 | 🌐 Python | 📅 2026-08-19 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)](https://github.com/eosphoros-ai/DB-GPT/stargazers) ⭐ 19,756 | 🐛 428 | 🌐 Python | 📅 2026-08-19
-* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,544 | 🐛 3 | 🌐 Python | 📅 2026-08-18 [![GitHub Repo stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=social)](https://github.com/premAI-io/tobymao/sqlglot)
+* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,546 | 🐛 3 | 🌐 Python | 📅 2026-08-18 [![GitHub Repo stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=social)](https://github.com/premAI-io/tobymao/sqlglot)
 * [SQLChat](https://github.com/sqlchat/sqlchat) ⭐ 5,844 | 🐛 24 | 🌐 TypeScript | 📅 2026-04-21 [![GitHub Repo stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)](https://github.com/sqlchat/sqlchat/stargazers) ⭐ 5,844 | 🐛 24 | 🌐 TypeScript | 📅 2026-04-21
 * [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) ⭐ 3,739 | 🐛 6 | 📅 2026-01-26 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/Awesome-Text2SQL?style=social)](https://github.com/premAI-io/premsql/stargazers) ⭐ 462 | 🐛 11 | 🌐 Python | 📅 2025-02-14
 * [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,005 | 🐛 73 | 🌐 Python | 📅 2025-07-02 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT-Hub?style=social)](https://github.com/eosphoros-ai/DB-GPT-Hub/stargazers) ⭐ 2,005 | 🐛 73 | 🌐 Python | 📅 2025-07-02
