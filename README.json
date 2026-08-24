@@ -1,6 +1,146 @@
 {
   "items": [
     {
+      "description": "In the era of LLMs, two benchmarks and their variants/extensions are widely recognized for evaluating text-to-SQL capabilities. We will continually update the top five methods on each benchmark to showcase the latest advances in the text-to-SQL community. These benchmarks, along with other text-to-SQL dataset papers, are listed in the datasets section below.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DAIL-SQL + GPT-4",
+              "description": "82.4 86.6 [Paper] [Code] 2023-08-20",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 684399912,
+                "language": "Python",
+                "last_commit": "2025-03-07T03:42:22Z",
+                "owner": "BeachWang",
+                "repo": "DAIL-SQL",
+                "stars": 640
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DIN-SQL + GPT-4",
+              "description": "74.2 85.3 [Paper] [Code] 2023-04-21",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614949365,
+                "language": "Python",
+                "last_commit": "2024-03-30T13:41:47Z",
+                "owner": "MohammadrezaPourreza",
+                "repo": "Few-shot-NL2SQL-with-prompting",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C3 + ChatGPT",
+              "description": "81.8 82.3 [Paper] [Code] 2023-06-01",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650415781,
+                "language": "Python",
+                "last_commit": "2024-08-06T07:14:25Z",
+                "owner": "bigbigwatermalon",
+                "repo": "C3SQL",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RESDSQL-3B + NatSQL",
+              "description": "84.1 79.9 [Paper] [Code] 2023-02-27",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600767872,
+                "language": "Python",
+                "last_commit": "2024-05-13T02:45:33Z",
+                "owner": "RUCKBReasoning",
+                "repo": "RESDSQL",
+                "stars": 281
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spider1.0 - Semantic Parsing and Text-to-SQL Challenge"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ReFoRCE + o3",
+              "description": "37.11 37.84 [Paper] [Code] 2025-05-22",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 955062007,
+                "language": "Python",
+                "last_commit": "2025-08-01T19:36:25Z",
+                "owner": "Snowflake-Labs",
+                "repo": "ReFoRCE",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RSL-SQL + o3",
+              "description": "- 33.09 [Paper] [Code] 2025-07-10",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 880349270,
+                "language": "Python",
+                "last_commit": "2025-09-17T03:09:23Z",
+                "owner": "Laqcce-cao",
+                "repo": "RSL-SQL",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LinkAlign + DeepSeek-R1",
+              "description": "- 33.09 [Paper] [Code] 2025-04-27",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 948902943,
+                "language": "Python",
+                "last_commit": "2025-06-18T17:09:11Z",
+                "owner": "Satissss",
+                "repo": "LinkAlign",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spider-Agent + Claude-3.7-Sonnet",
+              "description": "- 28.52 [Paper] [Code] 2025-03-16",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 845868425,
+                "language": "HTML",
+                "last_commit": "2026-08-12T13:01:36Z",
+                "owner": "xlang-ai",
+                "repo": "Spider2",
+                "stars": 859
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spider2.0 - Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows"
+        }
+      ],
+      "title": "🏆 Benchmarks"
+    },
+    {
       "description": "We categorize the datasets into Original Datasets and Post-annotated Datasets based on whether they were released with the original dataset (question–SQL pairs) and databases, or were developed by adapting existing datasets and databases with special settings. The Post-annotated Datasets rely on the databases from Spider 1.0. For each original dataset, we list its characteristics, number of examples, and number of databases under the dataset title.",
       "items": [
         {
@@ -955,7 +1095,7 @@
             "last_commit": "2026-08-24T11:53:20Z",
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9561
+            "stars": 9562
           }
         },
         {
@@ -1038,7 +1178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:33:14.942Z",
+    "last_updated": "2026-08-24T14:11:48.389Z",
     "original_repository": "DEEP-PolyU/Awesome-LLM-based-Text2SQL",
     "original_repository_id": 1056221118,
     "original_repository_sha": "b79ff69e6f6adee45e947cfea267136d808594a5",
