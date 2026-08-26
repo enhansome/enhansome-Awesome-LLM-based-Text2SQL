@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-12T13:01:36Z",
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 860
+                "stars": 861
               }
             }
           ],
@@ -217,7 +217,7 @@
                 "last_commit": "2026-08-12T13:01:36Z",
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 860
+                "stars": 861
               }
             },
             {
@@ -432,7 +432,7 @@
                 "last_commit": "2026-08-12T13:01:36Z",
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 860
+                "stars": 861
               }
             },
             {
@@ -462,7 +462,7 @@
                 "last_commit": "2026-05-09T08:20:56Z",
                 "owner": "antgroup",
                 "repo": "Agentar-Scale-SQL",
-                "stars": 465
+                "stars": 466
               }
             },
             {
@@ -1077,10 +1077,10 @@
             "archived": false,
             "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-21T01:55:03Z",
+            "last_commit": "2026-08-26T11:10:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19793
+            "stars": 19800
           }
         },
         {
@@ -1092,10 +1092,10 @@
             "archived": false,
             "id": 347277349,
             "language": "Python",
-            "last_commit": "2026-08-25T10:35:40Z",
+            "last_commit": "2026-08-25T20:19:37Z",
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9565
+            "stars": 9569
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2026-04-21T03:03:56Z",
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5844
+            "stars": 5843
           }
         },
         {
@@ -1125,7 +1125,7 @@
             "last_commit": "2026-01-26T01:46:37Z",
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3744
+            "stars": 3743
           }
         },
         {
@@ -1178,7 +1178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:31:03.071Z",
+    "last_updated": "2026-08-26T13:36:38.395Z",
     "original_repository": "DEEP-PolyU/Awesome-LLM-based-Text2SQL",
     "original_repository_id": 1056221118,
     "original_repository_sha": "b79ff69e6f6adee45e947cfea267136d808594a5",
