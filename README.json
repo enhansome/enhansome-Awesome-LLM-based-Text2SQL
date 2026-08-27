@@ -17,7 +17,7 @@
                 "last_commit": "2025-03-07T03:42:22Z",
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 641
+                "stars": 640
               }
             },
             {
@@ -187,7 +187,7 @@
                 "last_commit": "2024-05-29T03:16:42Z",
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1097
+                "stars": 1095
               }
             },
             {
@@ -202,7 +202,7 @@
                 "last_commit": "2026-03-29T07:54:22Z",
                 "owner": "bird-bench",
                 "repo": "BIRD-Interact",
-                "stars": 1011
+                "stars": 1012
               }
             },
             {
@@ -447,7 +447,7 @@
                 "last_commit": "2025-03-07T03:42:22Z",
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 641
+                "stars": 640
               }
             },
             {
@@ -462,7 +462,7 @@
                 "last_commit": "2026-05-09T08:20:56Z",
                 "owner": "antgroup",
                 "repo": "Agentar-Scale-SQL",
-                "stars": 466
+                "stars": 467
               }
             },
             {
@@ -859,7 +859,7 @@
                 "last_commit": "2025-03-07T03:42:22Z",
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 641
+                "stars": 640
               }
             },
             {
@@ -1039,7 +1039,7 @@
                 "last_commit": "2025-11-03T12:34:26Z",
                 "owner": "quge2023",
                 "repo": "SHARE",
-                "stars": 8
+                "stars": 7
               }
             },
             {
@@ -1080,7 +1080,7 @@
             "last_commit": "2026-08-26T11:10:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19800
+            "stars": 19805
           }
         },
         {
@@ -1092,10 +1092,10 @@
             "archived": false,
             "id": 347277349,
             "language": "Python",
-            "last_commit": "2026-08-25T20:19:37Z",
+            "last_commit": "2026-08-26T18:57:51Z",
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9569
+            "stars": 9571
           }
         },
         {
@@ -1125,7 +1125,7 @@
             "last_commit": "2026-01-26T01:46:37Z",
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3743
+            "stars": 3744
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2008
+            "stars": 2007
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "archived": false,
             "id": 1279645599,
             "language": "Python",
-            "last_commit": "2026-08-24T19:53:45Z",
+            "last_commit": "2026-08-27T03:02:57Z",
             "owner": "raintree-technology",
             "repo": "policystrata",
             "stars": 2
@@ -1178,9 +1178,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:36:38.395Z",
-    "original_repository": "DEEP-PolyU/Awesome-LLM-based-Text2SQL",
-    "original_repository_id": 1056221118,
+    "last_updated": "2026-08-27T11:25:09.815Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1056221118,
+      "language": null,
+      "last_commit": "2026-08-03T00:50:21Z",
+      "owner": "DEEP-PolyU",
+      "repo": "Awesome-LLM-based-Text2SQL",
+      "stars": 1358
+    },
     "original_repository_sha": "b79ff69e6f6adee45e947cfea267136d808594a5",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-based-Text2SQL",
     "enhanced_repository_description": null,
