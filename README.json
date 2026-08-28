@@ -18,7 +18,8 @@
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
                 "stars": 640
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "MohammadrezaPourreza",
                 "repo": "Few-shot-NL2SQL-with-prompting",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "bigbigwatermalon",
                 "repo": "C3SQL",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "RUCKBReasoning",
                 "repo": "RESDSQL",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             }
           ],
           "description": null,
@@ -85,7 +89,8 @@
                 "owner": "Snowflake-Labs",
                 "repo": "ReFoRCE",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "Laqcce-cao",
                 "repo": "RSL-SQL",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "Satissss",
                 "repo": "LinkAlign",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 861
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             }
           ],
           "description": null,
@@ -158,7 +166,8 @@
                 "owner": "salesforce",
                 "repo": "WikiSQL",
                 "stars": 1805
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "bird-bench",
                 "repo": "BIRD-CRITIC-1",
                 "stars": 1098
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "taoyds",
                 "repo": "spider",
                 "stars": 1095
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "bird-bench",
                 "repo": "BIRD-Interact",
                 "stars": 1012
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 861
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "tzshi",
                 "repo": "squall",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -248,7 +262,8 @@
                 "owner": "bigbigwatermalon",
                 "repo": "FinSQL",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -263,7 +278,8 @@
                 "owner": "Chia-Hsuan-Lee",
                 "repo": "KaggleDBQA",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -278,7 +294,8 @@
                 "owner": "taoyds",
                 "repo": "cosql",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             }
           ],
           "description": null,
@@ -300,7 +317,8 @@
                 "owner": "microsoft",
                 "repo": "ContextualSP",
                 "stars": 386
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -315,7 +333,8 @@
                 "owner": "taolusi",
                 "repo": "chisp",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -330,7 +349,8 @@
                 "owner": "taoyds",
                 "repo": "sparc",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -345,7 +365,8 @@
                 "owner": "VinAIResearch",
                 "repo": "ViText2SQL",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -360,7 +381,8 @@
                 "owner": "awslabs",
                 "repo": "diagnostic-robustness-text-to-sql",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -375,7 +397,8 @@
                 "owner": "ygan",
                 "repo": "Spider-Syn",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "ygan",
                 "repo": "SpiderSS-SpiderCG",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "ygan",
                 "repo": "Spider-DK",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             }
           ],
           "description": null,
@@ -433,7 +458,8 @@
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 861
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -448,7 +474,8 @@
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
                 "stars": 640
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -463,7 +490,8 @@
                 "owner": "antgroup",
                 "repo": "Agentar-Scale-SQL",
                 "stars": 467
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -478,7 +506,8 @@
                 "owner": "MohammadrezaPourreza",
                 "repo": "Few-shot-NL2SQL-with-prompting",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -493,7 +522,8 @@
                 "owner": "RUCAIBox",
                 "repo": "StructGPT",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -508,7 +538,8 @@
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -522,8 +553,9 @@
                 "last_commit": "2025-05-26T21:26:00Z",
                 "owner": "ShayanTalaei",
                 "repo": "CHESS",
-                "stars": 279
-              }
+                "stars": 280
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -538,7 +570,8 @@
                 "owner": "bigbigwatermalon",
                 "repo": "C3SQL",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -553,7 +586,8 @@
                 "owner": "Laqcce-cao",
                 "repo": "RSL-SQL",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -568,7 +602,8 @@
                 "owner": "Snowflake-Labs",
                 "repo": "ReFoRCE",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -583,7 +618,8 @@
                 "owner": "zhshLii",
                 "repo": "PETSQL",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -598,7 +634,8 @@
                 "owner": "niansong1996",
                 "repo": "lever",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -613,7 +650,8 @@
                 "owner": "Satissss",
                 "repo": "LinkAlign",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -628,7 +666,8 @@
                 "owner": "CycloneBoy",
                 "repo": "csc_sql",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -643,7 +682,8 @@
                 "owner": "quge2023",
                 "repo": "TA-SQL",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -658,7 +698,8 @@
                 "owner": "HasanAlpCaferoglu",
                 "repo": "E-SQL",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -673,7 +714,8 @@
                 "owner": "FlyingFeather",
                 "repo": "DEA-SQL",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -688,7 +730,8 @@
                 "owner": "facebookresearch",
                 "repo": "mbr-exec",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -703,7 +746,8 @@
                 "owner": "OSU-NLP-Group",
                 "repo": "Middleware",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -718,7 +762,8 @@
                 "owner": "Kaimary",
                 "repo": "MetaSQL",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -733,7 +778,8 @@
                 "owner": "jieshi10",
                 "repo": "gensql",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -748,7 +794,8 @@
                 "owner": "X-LANCE",
                 "repo": "text2sql-GPT",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -763,7 +810,8 @@
                 "owner": "mercatorhq",
                 "repo": "dubo-sql",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -778,7 +826,8 @@
                 "owner": "microsoft",
                 "repo": "SynQo",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -793,7 +842,8 @@
                 "owner": "shuaichenchang",
                 "repo": "ODIS-Text-to-SQL",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -808,7 +858,8 @@
                 "owner": "zirui-HIT",
                 "repo": "Fused",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -823,7 +874,8 @@
                 "owner": "Rcrossmeister",
                 "repo": "Knowledge-to-SQL",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             }
           ],
           "description": null,
@@ -845,7 +897,8 @@
                 "owner": "XGenerationLab",
                 "repo": "XiYan-SQL",
                 "stars": 1019
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -860,7 +913,8 @@
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
                 "stars": 640
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -875,7 +929,8 @@
                 "owner": "RUCKBReasoning",
                 "repo": "OmniSQL",
                 "stars": 454
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -890,7 +945,8 @@
                 "owner": "hao-ai-lab",
                 "repo": "Consistency_LLM",
                 "stars": 415
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -905,7 +961,8 @@
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -920,7 +977,8 @@
                 "owner": "RUCKBReasoning",
                 "repo": "codes",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -935,7 +993,8 @@
                 "owner": "TIGER-AI-Lab",
                 "repo": "StructLM",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -950,7 +1009,8 @@
                 "owner": "xufangzhi",
                 "repo": "Symbol-LLM",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -965,7 +1025,8 @@
                 "owner": "MohammadrezaPourreza",
                 "repo": "DTS-SQL",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -979,8 +1040,9 @@
                 "last_commit": "2026-08-12T12:15:32Z",
                 "owner": "YangHaolin0526",
                 "repo": "MARS-SQL",
-                "stars": 49
-              }
+                "stars": 50
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -995,7 +1057,8 @@
                 "owner": "layer6ai-labs",
                 "repo": "msc-sql",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -1010,7 +1073,8 @@
                 "owner": "D2I-ai",
                 "repo": "Route",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -1025,7 +1089,8 @@
                 "owner": "mercatorhq",
                 "repo": "dubo-sql",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -1040,7 +1105,8 @@
                 "owner": "quge2023",
                 "repo": "SHARE",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             },
             {
               "node_type": "item",
@@ -1055,7 +1121,8 @@
                 "owner": "TsinghuaDatabaseGroup",
                 "repo": "OpenSQL",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
             }
           ],
           "description": null,
@@ -1077,11 +1144,12 @@
             "archived": false,
             "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-26T11:10:31Z",
+            "last_commit": "2026-08-28T10:46:48Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19810
-          }
+            "stars": 19821
+          },
+          "first_seen": "2026-08-28T22:35:07.551Z"
         },
         {
           "node_type": "item",
@@ -1092,11 +1160,12 @@
             "archived": false,
             "id": 347277349,
             "language": "Python",
-            "last_commit": "2026-08-27T21:44:25Z",
+            "last_commit": "2026-08-28T22:13:41Z",
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9574
-          }
+            "stars": 9577
+          },
+          "first_seen": "2026-08-28T22:35:07.551Z"
         },
         {
           "node_type": "item",
@@ -1110,8 +1179,9 @@
             "last_commit": "2026-04-21T03:03:56Z",
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5845
-          }
+            "stars": 5846
+          },
+          "first_seen": "2026-08-28T22:35:07.551Z"
         },
         {
           "node_type": "item",
@@ -1125,8 +1195,9 @@
             "last_commit": "2026-01-26T01:46:37Z",
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3744
-          }
+            "stars": 3746
+          },
+          "first_seen": "2026-08-28T22:35:07.551Z"
         },
         {
           "node_type": "item",
@@ -1140,8 +1211,9 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2007
-          }
+            "stars": 2009
+          },
+          "first_seen": "2026-08-28T22:35:07.551Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1228,8 @@
             "owner": "premAI-io",
             "repo": "premsql",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-28T22:35:07.551Z"
         },
         {
           "node_type": "item",
@@ -1171,14 +1244,15 @@
             "owner": "raintree-technology",
             "repo": "policystrata",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:35:07.551Z"
         }
       ],
       "title": "📦 Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:32:08.566Z",
+    "last_updated": "2026-08-28T22:35:07.551Z",
     "original_repository_info": {
       "archived": false,
       "id": 1056221118,
