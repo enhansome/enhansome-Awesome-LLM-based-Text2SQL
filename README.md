@@ -150,7 +150,7 @@ In the era of LLMs, two benchmarks and their variants/extensions are widely reco
   *Knowledge-augmented, Long-context; #Example: 600; #DB: 95*
 * ![EMNLP2018](https://img.shields.io/badge/EMNLP2018-00BFFF) **Spider** | Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task \[[Paper](https://aclanthology.org/D18-1425.pdf)] \[[Code](https://github.com/taoyds/spider) ⭐ 1,095 | 🐛 70 | 🌐 Python | 📅 2024-05-29] \[[Dataset](https://drive.google.com/file/d/1403EGqzIDoHMdQF4c9Bkyl7dZLZ5Wt6J/view)]<br>
   *Cross-domain; #Example: 10,181; #DB: 200*
-* ![ICLR2026](https://img.shields.io/badge/ICLR2026-7CFC00) **BIRD-INTERACT** | BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation for Large Language Models via Lens of Dynamic Interactions \[[Paper](https://openreview.net/pdf?id=nHrYBGujps)] \[[Code](https://github.com/bird-bench/BIRD-Interact) ⭐ 1,012 | 🐛 4 | 🌐 Python | 📅 2026-03-29] \[[Dataset](https://huggingface.co/datasets/birdsql/bird-interact-full)]<br>*Long-context, Interaction; #Example: 600; #DB: 95*
+* ![ICLR2026](https://img.shields.io/badge/ICLR2026-7CFC00) **BIRD-INTERACT** | BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation for Large Language Models via Lens of Dynamic Interactions \[[Paper](https://openreview.net/pdf?id=nHrYBGujps)] \[[Code](https://github.com/bird-bench/BIRD-Interact) ⭐ 1,013 | 🐛 4 | 🌐 Python | 📅 2026-03-29] \[[Dataset](https://huggingface.co/datasets/birdsql/bird-interact-full)]<br>*Long-context, Interaction; #Example: 600; #DB: 95*
 * ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) **Spider2.0** | Spider 2.0: Evaluating Language Models on Real-world Enterprise Text-to-SQL Workflows \[[Paper](https://openreview.net/pdf?id=XmProj9cPs)] \[[Code](https://github.com/xlang-ai/Spider2) ⭐ 861 | 🐛 119 | 🌐 HTML | 📅 2026-08-12] \[[Dataset](https://github.com/xlang-ai/Spider2/blob/main/spider2-lite/spider2-lite.jsonl) ⭐ 861 | 🐛 119 | 🌐 HTML | 📅 2026-08-12]<br>
   *Knowledge-augmented, Long-context; #Example: 632; #DB: 213*
 * ![Findings2020](https://img.shields.io/badge/EMNLP2020Findings-87CEFA) **SQUALL** | On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries \[[Paper](https://aclanthology.org/2020.findings-emnlp.167.pdf)] \[[Code](https://github.com/tzshi/squall) ⭐ 55 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-09] <br>
@@ -261,7 +261,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 ## 📦 Projects
 
 * [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) ⭐ 19,821 | 🐛 422 | 🌐 Python | 📅 2026-08-28 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)](https://github.com/eosphoros-ai/DB-GPT/stargazers) ⭐ 19,821 | 🐛 422 | 🌐 Python | 📅 2026-08-28
-* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,577 | 🐛 6 | 🌐 Python | 📅 2026-08-28 [![GitHub Repo stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=social)](https://github.com/premAI-io/tobymao/sqlglot)
+* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,577 | 🐛 7 | 🌐 Python | 📅 2026-08-28 [![GitHub Repo stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=social)](https://github.com/premAI-io/tobymao/sqlglot)
 * [SQLChat](https://github.com/sqlchat/sqlchat) ⭐ 5,846 | 🐛 24 | 🌐 TypeScript | 📅 2026-04-21 [![GitHub Repo stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)](https://github.com/sqlchat/sqlchat/stargazers) ⭐ 5,846 | 🐛 24 | 🌐 TypeScript | 📅 2026-04-21
 * [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) ⭐ 3,746 | 🐛 6 | 📅 2026-01-26 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/Awesome-Text2SQL?style=social)](https://github.com/premAI-io/premsql/stargazers) ⭐ 462 | 🐛 11 | 🌐 Python | 📅 2025-02-14
 * [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,009 | 🐛 73 | 🌐 Python | 📅 2025-07-02 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT-Hub?style=social)](https://github.com/eosphoros-ai/DB-GPT-Hub/stargazers) ⭐ 2,009 | 🐛 73 | 🌐 Python | 📅 2025-07-02
@@ -282,4 +282,4 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

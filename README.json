@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A efficient and effective few-shot NL2SQL method on GPT-4.",
+                "homepage": null,
                 "id": 684399912,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-07T03:42:22Z",
+                "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 640
+                "stars": 640,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 614949365,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-30T13:41:47Z",
+                "open_issues": 22,
                 "owner": "MohammadrezaPourreza",
                 "repo": "Few-shot-NL2SQL-with-prompting",
-                "stars": 421
+                "stars": 421,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code for the paper C3: Zero-shot Text-to-SQL with ChatGPT",
+                "homepage": null,
                 "id": 650415781,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-06T07:14:25Z",
+                "open_issues": 4,
                 "owner": "bigbigwatermalon",
                 "repo": "C3SQL",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Pytorch implementation of RESDSQL (AAAI 2023).",
+                "homepage": "https://arxiv.org/abs/2302.05965",
                 "id": 600767872,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-13T02:45:33Z",
+                "open_issues": 14,
                 "owner": "RUCKBReasoning",
                 "repo": "RESDSQL",
-                "stars": 281
+                "stars": 281,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             }
@@ -83,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Text-to-SQL Agent with Self-Refinement, Format Restriction, and Column Exploration",
+                "homepage": "https://hao-ai-lab.github.io/blogs/reforce/",
                 "id": 955062007,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-01T19:36:25Z",
+                "open_issues": 4,
                 "owner": "Snowflake-Labs",
                 "repo": "ReFoRCE",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -99,12 +124,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RSL-SQL: Robust Schema Linking in Text-to-SQL Generation",
+                "homepage": "https://arxiv.org/abs/2411.00073",
                 "id": 880349270,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-17T03:09:23Z",
+                "open_issues": 0,
                 "owner": "Laqcce-cao",
                 "repo": "RSL-SQL",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "text-to-sql",
+                  "text2sql"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -115,12 +148,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2025 Main] LinkAlign: Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL",
+                "homepage": null,
                 "id": 948902943,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-18T17:09:11Z",
+                "open_issues": 10,
                 "owner": "Satissss",
                 "repo": "LinkAlign",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "agent",
+                  "data-science",
+                  "database",
+                  "llm",
+                  "schema-linking",
+                  "text-to-sql"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -131,12 +176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025 Oral] Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows",
+                "homepage": "https://spider2-sql.github.io",
                 "id": 845868425,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
+                "open_issues": 119,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 861
+                "stars": 861,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             }
@@ -160,12 +210,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A large annotated semantic parsing corpus for developing natural language interfaces.",
+                "homepage": null,
                 "id": 100076574,
                 "language": "HTML",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-10-06T11:06:57Z",
+                "open_issues": 29,
                 "owner": "salesforce",
                 "repo": "WikiSQL",
-                "stars": 1805
+                "stars": 1805,
+                "topics": [
+                  "database",
+                  "dataset",
+                  "machine-learning",
+                  "natural-language",
+                  "natural-language-interface",
+                  "natural-language-processing"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -176,12 +238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025 Main] SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications",
+                "homepage": "https://bird-critic.github.io/",
                 "id": 923493939,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-23T23:05:33Z",
+                "open_issues": 3,
                 "owner": "bird-bench",
                 "repo": "BIRD-CRITIC-1",
-                "stars": 1098
+                "stars": 1098,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -192,12 +259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scripts and baselines for Spider: Yale complex and cross-domain semantic parsing and text-to-SQL challenge",
+                "homepage": "https://yale-lily.github.io/spider",
                 "id": 150050402,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-29T03:16:42Z",
+                "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1095
+                "stars": 1095,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -208,12 +280,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2026 Oral] BIRD-INTERACT: Re-imagines Text-to-SQL evaluation via lens of dynamic interactions.",
+                "homepage": "https://bird-interact.github.io/",
                 "id": 987806748,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-29T07:54:22Z",
+                "open_issues": 4,
                 "owner": "bird-bench",
                 "repo": "BIRD-Interact",
-                "stars": 1012
+                "stars": 1013,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -224,12 +301,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025 Oral] Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows",
+                "homepage": "https://spider2-sql.github.io",
                 "id": 845868425,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
+                "open_issues": 119,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 861
+                "stars": 861,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -240,12 +322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data and Code Release for \"On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries\"",
+                "homepage": null,
                 "id": 305740987,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-11-09T20:59:12Z",
+                "open_issues": 0,
                 "owner": "tzshi",
                 "repo": "squall",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -256,12 +343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 724741185,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-08T02:10:51Z",
+                "open_issues": 1,
                 "owner": "bigbigwatermalon",
                 "repo": "FinSQL",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -272,12 +364,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Introduction page of a challenging text-to-SQL dataset: KaggleDBQA",
+                "homepage": null,
                 "id": 439738419,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-20T17:49:43Z",
+                "open_issues": 2,
                 "owner": "Chia-Hsuan-Lee",
                 "repo": "KaggleDBQA",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "dataset",
+                  "kaggle",
+                  "kaggle-dataset",
+                  "natural-language-processing",
+                  "question-answering",
+                  "semantic-parsing",
+                  "spider",
+                  "text-to-sql"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -288,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases",
+                "homepage": "https://yale-lily.github.io/cosql",
                 "id": 219304297,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-03-22T19:56:41Z",
+                "open_issues": 2,
                 "owner": "taoyds",
                 "repo": "cosql",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             }
@@ -311,12 +422,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multiple paper open-source codes of the Microsoft Research Asia DKI group",
+                "homepage": null,
                 "id": 255534819,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-10T02:14:43Z",
+                "open_issues": 19,
                 "owner": "microsoft",
                 "repo": "ContextualSP",
-                "stars": 386
+                "stars": 386,
+                "topics": [
+                  "compositional-generalization",
+                  "conversational-semantic-parsing",
+                  "microsoft-research-asia",
+                  "semantic-parsing",
+                  "text-to-sql",
+                  "utterance-rewriting"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -327,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scripts and baselines for CSpider: Chinese semantic parsing and text-to-SQL challenge",
+                "homepage": "https://taolusi.github.io/CSpider-explorer/",
                 "id": 202292691,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-12T12:00:08Z",
+                "open_issues": 8,
                 "owner": "taolusi",
                 "repo": "chisp",
-                "stars": 203
+                "stars": 203,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -343,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scripts and baselines for SParC: Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge",
+                "homepage": "https://yale-lily.github.io/sparc",
                 "id": 193794944,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-24T09:02:29Z",
+                "open_issues": 10,
                 "owner": "taoyds",
                 "repo": "sparc",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -359,12 +492,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ViText2SQL: A dataset for Vietnamese Text-to-SQL semantic parsing (EMNLP-2020 Findings)",
+                "homepage": null,
                 "id": 263415788,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-22T13:51:42Z",
+                "open_issues": 0,
                 "owner": "VinAIResearch",
                 "repo": "ViText2SQL",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "semantic-parsing",
+                  "text-to-sql",
+                  "vietnamese"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -375,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data for paper \"Dr.Spider: A Diagnostic Evaluation Benchmark towards Text-to-SQL Robustness\"",
+                "homepage": null,
                 "id": 591037743,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-03T20:35:05Z",
+                "open_issues": 1,
                 "owner": "awslabs",
                 "repo": "diagnostic-robustness-text-to-sql",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -391,12 +538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 370612509,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-10-22T17:04:10Z",
+                "open_issues": 0,
                 "owner": "ygan",
                 "repo": "Spider-Syn",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -407,12 +559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 482297253,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-04T06:48:44Z",
+                "open_issues": 1,
                 "owner": "ygan",
                 "repo": "SpiderSS-SpiderCG",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -423,12 +580,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 403060815,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-10-20T15:30:47Z",
+                "open_issues": 1,
                 "owner": "ygan",
                 "repo": "Spider-DK",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             }
@@ -452,12 +614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025 Oral] Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows",
+                "homepage": "https://spider2-sql.github.io",
                 "id": 845868425,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
+                "open_issues": 119,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 861
+                "stars": 861,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -468,12 +635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A efficient and effective few-shot NL2SQL method on GPT-4.",
+                "homepage": null,
                 "id": 684399912,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-07T03:42:22Z",
+                "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 640
+                "stars": 640,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -484,12 +656,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agentar-Scale-SQL is a novel framework that leverages scalable computation to significantly improve Text-to-SQL performance.",
+                "homepage": null,
                 "id": 1066107527,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-09T08:20:56Z",
+                "open_issues": 21,
                 "owner": "antgroup",
                 "repo": "Agentar-Scale-SQL",
-                "stars": 467
+                "stars": 467,
+                "topics": [
+                  "agentic-ai",
+                  "ai4db",
+                  "llm",
+                  "nl-to-code",
+                  "nl-to-sql",
+                  "nl2sql",
+                  "text2sql"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -500,12 +685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 614949365,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-30T13:41:47Z",
+                "open_issues": 22,
                 "owner": "MohammadrezaPourreza",
                 "repo": "Few-shot-NL2SQL-with-prompting",
-                "stars": 421
+                "stars": 421,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -516,12 +706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code and data for \"StructGPT: A general framework for Large Language Model to Reason on Structured Data\"",
+                "homepage": null,
                 "id": 641555976,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-28T13:19:07Z",
+                "open_issues": 0,
                 "owner": "RUCAIBox",
                 "repo": "StructGPT",
-                "stars": 416
+                "stars": 416,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -532,12 +727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL",
+                "homepage": "https://arxiv.org/abs/2312.11242",
                 "id": 733015849,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-27T04:02:02Z",
+                "open_issues": 5,
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
-                "stars": 346
+                "stars": 346,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -548,12 +748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contextual Harnessing for Efficient SQL Synthesis",
+                "homepage": null,
                 "id": 817915982,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-26T21:26:00Z",
+                "open_issues": 14,
                 "owner": "ShayanTalaei",
                 "repo": "CHESS",
-                "stars": 280
+                "stars": 280,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -564,12 +769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code for the paper C3: Zero-shot Text-to-SQL with ChatGPT",
+                "homepage": null,
                 "id": 650415781,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-06T07:14:25Z",
+                "open_issues": 4,
                 "owner": "bigbigwatermalon",
                 "repo": "C3SQL",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -580,12 +790,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RSL-SQL: Robust Schema Linking in Text-to-SQL Generation",
+                "homepage": "https://arxiv.org/abs/2411.00073",
                 "id": 880349270,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-17T03:09:23Z",
+                "open_issues": 0,
                 "owner": "Laqcce-cao",
                 "repo": "RSL-SQL",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "text-to-sql",
+                  "text2sql"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -596,12 +814,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Text-to-SQL Agent with Self-Refinement, Format Restriction, and Column Exploration",
+                "homepage": "https://hao-ai-lab.github.io/blogs/reforce/",
                 "id": 955062007,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-01T19:36:25Z",
+                "open_issues": 4,
                 "owner": "Snowflake-Labs",
                 "repo": "ReFoRCE",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -612,12 +835,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 779098227,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-06T09:07:31Z",
+                "open_issues": 3,
                 "owner": "zhshLii",
                 "repo": "PETSQL",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -628,12 +856,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper \"LEVER: Learning to Verifiy Language-to-Code Generation with Execution\" (ICML'23)",
+                "homepage": "https://arxiv.org/abs/2302.08468",
                 "id": 602401834,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-05T09:06:23Z",
+                "open_issues": 2,
                 "owner": "niansong1996",
                 "repo": "lever",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -644,12 +877,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2025 Main] LinkAlign: Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL",
+                "homepage": null,
                 "id": 948902943,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-18T17:09:11Z",
+                "open_issues": 10,
                 "owner": "Satissss",
                 "repo": "LinkAlign",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "agent",
+                  "data-science",
+                  "database",
+                  "llm",
+                  "schema-linking",
+                  "text-to-sql"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -660,12 +905,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning",
+                "homepage": "https://arxiv.org/abs/2505.13271",
                 "id": 986375173,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-12T13:19:36Z",
+                "open_issues": 2,
                 "owner": "CycloneBoy",
                 "repo": "csc_sql",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "grpo",
+                  "self-consistency",
+                  "text-to-sql"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -676,12 +930,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 803818733,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-18T12:37:28Z",
+                "open_issues": 2,
                 "owner": "quge2023",
                 "repo": "TA-SQL",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -692,12 +951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 862763080,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-07T16:17:55Z",
+                "open_issues": 0,
                 "owner": "HasanAlpCaferoglu",
                 "repo": "E-SQL",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -708,12 +972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  [ACL Findings 2024] Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm",
+                "homepage": null,
                 "id": 758022741,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-05T13:22:42Z",
+                "open_issues": 2,
                 "owner": "FlyingFeather",
                 "repo": "DEA-SQL",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -724,12 +993,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "code for \"Natural Language to Code Translation with Execution\"",
+                "homepage": null,
                 "id": 554471880,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-02T23:10:13Z",
+                "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "mbr-exec",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -740,12 +1014,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments (EMNLP'2024)",
+                "homepage": null,
                 "id": 738835066,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-29T13:36:06Z",
+                "open_issues": 0,
                 "owner": "OSU-NLP-Group",
                 "repo": "Middleware",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "agents",
+                  "llm",
+                  "tool-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -756,12 +1039,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICDE 2024 Paper, MetaSQL: A Generate-then-Rank Framework for Natural Language to SQL Translation",
+                "homepage": "https://ieeexplore.ieee.org/document/10597742",
                 "id": 706817625,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-09T02:33:52Z",
+                "open_issues": 0,
                 "owner": "Kaimary",
                 "repo": "MetaSQL",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "generate-and-rank",
+                  "learning-to-rank",
+                  "natural-language-interface",
+                  "semantic-parsing",
+                  "text-to-sql"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -772,12 +1066,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[COLING'25] Gen-SQL: Efficient Text-to-SQL By Bridging Natural Language Question And Database Schema With Pseudo-Schema",
+                "homepage": null,
                 "id": 898239521,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-09T06:09:02Z",
+                "open_issues": 2,
                 "owner": "jieshi10",
                 "repo": "gensql",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -788,12 +1087,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2023 Findings] ACT-SQL: In-Context Learning for Text-to-SQL with Automatically-Generated Chain-of-Thought",
+                "homepage": null,
                 "id": 707658595,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-11T07:09:39Z",
+                "open_issues": 4,
                 "owner": "X-LANCE",
                 "repo": "text2sql-GPT",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -804,12 +1108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 788714653,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-04-22T18:13:17Z",
+                "open_issues": 1,
                 "owner": "mercatorhq",
                 "repo": "dubo-sql",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -820,12 +1129,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "SyntheticFeedbackForQLCorrections: This repo contains the code for synthetic feedback generation for NL2QL corrections.",
+                "homepage": null,
                 "id": 827400455,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-20T15:20:57Z",
+                "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "SynQo",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -836,12 +1150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 702803153,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-10T20:15:57Z",
+                "open_issues": 1,
                 "owner": "shuaichenchang",
                 "repo": "ODIS-Text-to-SQL",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -852,12 +1171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 806944750,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-11T03:02:21Z",
+                "open_issues": 0,
                 "owner": "zirui-HIT",
                 "repo": "Fused",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -868,12 +1192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL2024 Findings] Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM",
+                "homepage": "https://arxiv.org/pdf/2405.10517",
                 "id": 1051121204,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-08-26T19:52:52Z",
+                "open_issues": 0,
                 "owner": "Rcrossmeister",
                 "repo": "Knowledge-to-SQL",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             }
@@ -891,12 +1220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MULTI-GENERATOR ENSEMBLE FRAMEWORK FOR NATURAL LANGUAGE TO SQL",
+                "homepage": null,
                 "id": 887235046,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-18T11:19:51Z",
+                "open_issues": 23,
                 "owner": "XGenerationLab",
                 "repo": "XiYan-SQL",
-                "stars": 1019
+                "stars": 1019,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -907,12 +1241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A efficient and effective few-shot NL2SQL method on GPT-4.",
+                "homepage": null,
                 "id": 684399912,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-07T03:42:22Z",
+                "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 640
+                "stars": 640,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -923,12 +1262,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[VLDB' 25] Synthesizing High-quality Text-to-SQL Data at Scale. SynSQL-2.5M is the first million-scale cross-domain text-to-SQL dataset.",
+                "homepage": "https://arxiv.org/abs/2503.02240v2",
                 "id": 939882444,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-08T11:09:09Z",
+                "open_issues": 4,
                 "owner": "RUCKBReasoning",
                 "repo": "OmniSQL",
-                "stars": 454
+                "stars": 454,
+                "topics": [
+                  "datasets",
+                  "language-model",
+                  "text-to-sql"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -939,12 +1287,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2024] CLLMs: Consistency Large Language Models",
+                "homepage": "http://arxiv.org/abs/2403.00835",
                 "id": 724416663,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-16T04:05:39Z",
+                "open_issues": 7,
                 "owner": "hao-ai-lab",
                 "repo": "Consistency_LLM",
-                "stars": 415
+                "stars": 415,
+                "topics": [
+                  "efficient-llm",
+                  "efficient-llm-inference",
+                  "large-language-models"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -955,12 +1312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL",
+                "homepage": "https://arxiv.org/abs/2312.11242",
                 "id": 733015849,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-27T04:02:02Z",
+                "open_issues": 5,
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
-                "stars": 346
+                "stars": 346,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -971,12 +1333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The source code of CodeS (SIGMOD 2024).",
+                "homepage": "https://arxiv.org/abs/2402.16347",
                 "id": 684008243,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-20T06:47:14Z",
+                "open_issues": 6,
                 "owner": "RUCKBReasoning",
                 "repo": "codes",
-                "stars": 199
+                "stars": 199,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -987,12 +1354,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and data for \"StructLM: Towards Building Generalist Models for Structured Knowledge Grounding\" (COLM 2024)",
+                "homepage": "https://tiger-ai-lab.github.io/StructLM/",
                 "id": 763236204,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-19T20:36:03Z",
+                "open_issues": 2,
                 "owner": "TIGER-AI-Lab",
                 "repo": "StructLM",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "grounding",
+                  "llm",
+                  "reasoning"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -1003,12 +1379,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2024] The project of Symbol-LLM",
+                "homepage": null,
                 "id": 719429526,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-10T04:56:22Z",
+                "open_issues": 2,
                 "owner": "xufangzhi",
                 "repo": "Symbol-LLM",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "ai-agents",
+                  "large-language-models",
+                  "neuro-symbolic"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -1019,12 +1404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains all the code for the DTS-SQL paper",
+                "homepage": null,
                 "id": 750641844,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-29T00:41:51Z",
+                "open_issues": 13,
                 "owner": "MohammadrezaPourreza",
                 "repo": "DTS-SQL",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -1035,12 +1425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1086563121,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-12T12:15:32Z",
+                "open_issues": 4,
                 "owner": "YangHaolin0526",
                 "repo": "MARS-SQL",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -1051,12 +1446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text-2-SQL",
+                "homepage": null,
                 "id": 873757014,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-21T17:55:54Z",
+                "open_issues": 1,
                 "owner": "layer6ai-labs",
                 "repo": "msc-sql",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -1067,12 +1467,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL (ICLR 2025 Pytorch Code)",
+                "homepage": null,
                 "id": 902160153,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-15T07:07:20Z",
+                "open_issues": 0,
                 "owner": "D2I-ai",
                 "repo": "Route",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -1083,12 +1488,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 788714653,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-04-22T18:13:17Z",
+                "open_issues": 1,
                 "owner": "mercatorhq",
                 "repo": "dubo-sql",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -1099,12 +1509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1015157039,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-03T12:34:26Z",
+                "open_issues": 0,
                 "owner": "quge2023",
                 "repo": "SHARE",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             },
@@ -1115,12 +1530,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data-Efficient Text-to-SQL for Open-Source LLMs via Synthesized Intermediate Supervision",
+                "homepage": null,
                 "id": 1162279098,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-13T07:48:22Z",
+                "open_issues": 0,
                 "owner": "TsinghuaDatabaseGroup",
                 "repo": "OpenSQL",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "text-to-sql"
+                ]
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
             }
@@ -1142,12 +1564,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "open-source agentic AI data assistant for the next generation of AI + Data products.",
+            "homepage": "http://docs.dbgpt.cn",
             "id": 627480054,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:46:48Z",
+            "open_issues": 422,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19821
+            "stars": 19821,
+            "topics": [
+              "agents",
+              "bgi",
+              "database",
+              "deepseek",
+              "gpt",
+              "gpt-4",
+              "hacktoberfest",
+              "llm",
+              "private",
+              "rag",
+              "security",
+              "vicuna"
+            ]
           },
           "first_seen": "2026-08-28T22:35:07.551Z"
         },
@@ -1158,12 +1598,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python SQL Parser and Transpiler",
+            "homepage": "https://sqlglot.com/",
             "id": 347277349,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:13:41Z",
+            "open_issues": 7,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9577
+            "stars": 9577,
+            "topics": [
+              "bigquery",
+              "clickhouse",
+              "databricks",
+              "duckdb",
+              "hive",
+              "mysql",
+              "optimizer",
+              "parser",
+              "postgres",
+              "presto",
+              "python",
+              "redshift",
+              "snowflake",
+              "spark",
+              "sql",
+              "sqlite",
+              "sqlparser",
+              "transpiler",
+              "trino",
+              "tsql"
+            ]
           },
           "first_seen": "2026-08-28T22:35:07.551Z"
         },
@@ -1174,12 +1640,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chat-based SQL Client and Editor for the next decade",
+            "homepage": "https://sqlchat.ai",
             "id": 614656648,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-21T03:03:56Z",
+            "open_issues": 24,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5846
+            "stars": 5846,
+            "topics": [
+              "chatgpt",
+              "clickhouse",
+              "cockroachdb",
+              "gpt",
+              "mongodb",
+              "mssql",
+              "mysql",
+              "openai",
+              "oracle",
+              "postgres",
+              "redis",
+              "snowflake",
+              "sql",
+              "sqlclient",
+              "sqleditor",
+              "sqlite",
+              "sqlserver",
+              "text-to-sql",
+              "text2sql",
+              "tidb"
+            ]
           },
           "first_seen": "2026-08-28T22:35:07.551Z"
         },
@@ -1190,12 +1682,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.",
+            "homepage": null,
             "id": 686871971,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-26T01:46:37Z",
+            "open_issues": 6,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3746
+            "stars": 3746,
+            "topics": [
+              "ai",
+              "awesome",
+              "datset",
+              "deep-learning",
+              "finetuning",
+              "hacktoberfest",
+              "hacktoberfest2024",
+              "llm",
+              "nl-to-sql",
+              "nl2sql",
+              "nlp",
+              "survey",
+              "test",
+              "text-to-sql",
+              "text2api",
+              "text2dsl",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-28T22:35:07.551Z"
         },
@@ -1206,12 +1721,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL",
+            "homepage": null,
             "id": 648474263,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-02T03:39:31Z",
+            "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2009
+            "stars": 2009,
+            "topics": [
+              "database",
+              "datasets",
+              "fine-tuning",
+              "gpt",
+              "hacktoberfest",
+              "llm",
+              "nl2sql",
+              "sql",
+              "text-to-sql",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-28T22:35:07.551Z"
         },
@@ -1222,12 +1753,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "End-to-End Local-First Text-to-SQL Pipelines",
+            "homepage": "https://docs.premai.io/premsql/introduction",
             "id": 828661899,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-14T17:41:42Z",
+            "open_issues": 11,
             "owner": "premAI-io",
             "repo": "premsql",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "database",
+              "llama",
+              "llm",
+              "opensource",
+              "rag",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T22:35:07.551Z"
         },
@@ -1238,12 +1781,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deterministic CI regression testing for policy drift across model-visible tools, semantic validation, SQL compilation, database containment, and result release.",
+            "homepage": "https://raintree.technology/papers/PolicyStrata.pdf",
             "id": 1279645599,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T03:02:57Z",
+            "open_issues": 0,
             "owner": "raintree-technology",
             "repo": "policystrata",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "access-control",
+              "ai-safety",
+              "ci",
+              "data-agents",
+              "data-governance",
+              "dbt",
+              "evals",
+              "github-actions",
+              "llm",
+              "llm-agents",
+              "policy-as-code",
+              "policy-regression",
+              "policy-testing",
+              "postgres",
+              "postgresql",
+              "rls",
+              "row-level-security",
+              "sql",
+              "testing",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T22:35:07.551Z"
         }
@@ -1252,15 +1821,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:35:07.551Z",
+    "last_updated": "2026-08-29T04:31:50.614Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
+      "homepage": "https://arxiv.org/pdf/2406.08426",
       "id": 1056221118,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-03T00:50:21Z",
+      "open_issues": 0,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-LLM-based-Text2SQL",
-      "stars": 1358
+      "stars": 1358,
+      "topics": [
+        "awesome",
+        "awesome-text-to-sql",
+        "awesome-text2sql",
+        "database",
+        "large-language-models",
+        "llms",
+        "natual-language-processing",
+        "natural-language-understanding",
+        "nl2sql",
+        "survey",
+        "text-to-sql",
+        "text2sql"
+      ]
     },
     "original_repository_sha": "b79ff69e6f6adee45e947cfea267136d808594a5",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-based-Text2SQL",
