@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 640,
+                "stars": 641,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -182,7 +182,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 861,
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "bird-bench",
                 "repo": "BIRD-CRITIC-1",
-                "stars": 1098,
+                "stars": 1099,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -307,7 +307,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 861,
@@ -620,7 +620,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 861,
@@ -644,7 +644,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 640,
+                "stars": 641,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -665,7 +665,7 @@
                 "open_issues": 21,
                 "owner": "antgroup",
                 "repo": "Agentar-Scale-SQL",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "agentic-ai",
                   "ai4db",
@@ -1250,7 +1250,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 640,
+                "stars": 641,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1342,7 +1342,7 @@
                 "open_issues": 6,
                 "owner": "RUCKBReasoning",
                 "repo": "codes",
-                "stars": 199,
+                "stars": 198,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1570,10 +1570,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T03:49:48Z",
-            "open_issues": 423,
+            "open_issues": 425,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19829,
+            "stars": 19840,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-31T19:07:41Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-01T16:02:59Z",
+            "open_issues": 3,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9580,
+            "stars": 9582,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 6,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3745,
+            "stars": 3747,
             "topics": [
               "ai",
               "awesome",
@@ -1730,7 +1730,7 @@
             "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2008,
+            "stars": 2007,
             "topics": [
               "database",
               "datasets",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:13:30.334Z",
+    "last_updated": "2026-09-01T16:52:35.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
