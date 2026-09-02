@@ -268,7 +268,7 @@
                 "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1096,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -757,7 +757,7 @@
                 "open_issues": 14,
                 "owner": "ShayanTalaei",
                 "repo": "CHESS",
-                "stars": 280,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1570,10 +1570,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T03:49:48Z",
-            "open_issues": 425,
+            "open_issues": 428,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19840,
+            "stars": 19846,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T16:02:59Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-02T16:10:11Z",
+            "open_issues": 6,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9582,
+            "stars": 9587,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 6,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3747,
+            "stars": 3746,
             "topics": [
               "ai",
               "awesome",
@@ -1730,7 +1730,7 @@
             "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2007,
+            "stars": 2008,
             "topics": [
               "database",
               "datasets",
@@ -1782,7 +1782,7 @@
           "repo_info": {
             "archived": false,
             "description": "Deterministic CI regression testing for policy drift across model-visible tools, semantic validation, SQL compilation, database containment, and result release.",
-            "homepage": "https://raintree.technology/papers/PolicyStrata.pdf",
+            "homepage": "https://raintree.technology/writing/policystrata",
             "id": 1279645599,
             "language": "Python",
             "license": "MIT",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:52:35.637Z",
+    "last_updated": "2026-09-02T16:49:43.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
