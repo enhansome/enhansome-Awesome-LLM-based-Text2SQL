@@ -112,7 +112,7 @@
                 "open_issues": 4,
                 "owner": "Snowflake-Labs",
                 "repo": "ReFoRCE",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -219,7 +219,7 @@
                 "open_issues": 29,
                 "owner": "salesforce",
                 "repo": "WikiSQL",
-                "stars": 1804,
+                "stars": 1803,
                 "topics": [
                   "database",
                   "dataset",
@@ -823,7 +823,7 @@
                 "open_issues": 4,
                 "owner": "Snowflake-Labs",
                 "repo": "ReFoRCE",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -978,7 +978,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-05T13:22:42Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "FlyingFeather",
                 "repo": "DEA-SQL",
                 "stars": 45,
@@ -1229,7 +1229,7 @@
                 "open_issues": 23,
                 "owner": "XGenerationLab",
                 "repo": "XiYan-SQL",
-                "stars": 1019,
+                "stars": 1018,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1573,7 +1573,7 @@
             "open_issues": 428,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19846,
+            "stars": 19859,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T16:10:11Z",
+            "last_commit": "2026-09-03T15:08:06Z",
             "open_issues": 6,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9587,
+            "stars": 9584,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 24,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5845,
+            "stars": 5844,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 6,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3746,
+            "stars": 3749,
             "topics": [
               "ai",
               "awesome",
@@ -1730,7 +1730,7 @@
             "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2008,
+            "stars": 2012,
             "topics": [
               "database",
               "datasets",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:49:43.040Z",
+    "last_updated": "2026-09-03T16:39:02.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
@@ -1833,7 +1833,7 @@
       "open_issues": 0,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-LLM-based-Text2SQL",
-      "stars": 1359,
+      "stars": 1360,
       "topics": [
         "awesome",
         "awesome-text-to-sql",
