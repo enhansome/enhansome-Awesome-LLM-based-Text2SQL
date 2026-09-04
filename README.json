@@ -182,10 +182,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 120,
+                "open_issues": 121,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 861,
+                "stars": 863,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -268,7 +268,7 @@
                 "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1097,
+                "stars": 1098,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -307,10 +307,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 120,
+                "open_issues": 121,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 861,
+                "stars": 863,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -620,10 +620,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 120,
+                "open_issues": 121,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 861,
+                "stars": 863,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -736,7 +736,7 @@
                 "open_issues": 5,
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1321,7 +1321,7 @@
                 "open_issues": 5,
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-31T03:49:48Z",
-            "open_issues": 428,
+            "last_commit": "2026-09-04T10:53:45Z",
+            "open_issues": 429,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19859,
+            "stars": 19866,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:08:06Z",
+            "last_commit": "2026-09-04T10:11:36Z",
             "open_issues": 6,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9584,
+            "stars": 9585,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 6,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3749,
+            "stars": 3750,
             "topics": [
               "ai",
               "awesome",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T16:39:02.558Z",
+    "last_updated": "2026-09-04T16:34:14.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
