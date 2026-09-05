@@ -665,7 +665,7 @@
                 "open_issues": 21,
                 "owner": "antgroup",
                 "repo": "Agentar-Scale-SQL",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "agentic-ai",
                   "ai4db",
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T10:53:45Z",
-            "open_issues": 429,
+            "last_commit": "2026-09-05T09:07:17Z",
+            "open_issues": 428,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19866,
+            "stars": 19873,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T10:11:36Z",
+            "last_commit": "2026-09-05T13:40:52Z",
             "open_issues": 6,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9585,
+            "stars": 9586,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 24,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5844,
+            "stars": 5845,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 6,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3750,
+            "stars": 3751,
             "topics": [
               "ai",
               "awesome",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:34:14.297Z",
+    "last_updated": "2026-09-05T15:29:55.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
@@ -1833,7 +1833,7 @@
       "open_issues": 0,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-LLM-based-Text2SQL",
-      "stars": 1360,
+      "stars": 1362,
       "topics": [
         "awesome",
         "awesome-text-to-sql",
