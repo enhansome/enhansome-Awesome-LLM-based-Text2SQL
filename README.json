@@ -182,10 +182,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 121,
+                "open_issues": 123,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 863,
+                "stars": 866,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -268,7 +268,7 @@
                 "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1098,
+                "stars": 1099,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -307,10 +307,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 121,
+                "open_issues": 123,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 863,
+                "stars": 866,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -620,10 +620,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 121,
+                "open_issues": 123,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 863,
+                "stars": 866,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1229,7 +1229,7 @@
                 "open_issues": 23,
                 "owner": "XGenerationLab",
                 "repo": "XiYan-SQL",
-                "stars": 1018,
+                "stars": 1019,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1434,7 +1434,7 @@
                 "open_issues": 4,
                 "owner": "YangHaolin0526",
                 "repo": "MARS-SQL",
-                "stars": 50,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T05:59:28Z",
-            "open_issues": 426,
+            "last_commit": "2026-09-07T05:35:45Z",
+            "open_issues": 429,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19879,
+            "stars": 19897,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-05T13:40:52Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-07T14:52:31Z",
+            "open_issues": 2,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9589,
+            "stars": 9595,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 24,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5845,
+            "stars": 5843,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T15:43:09.545Z",
+    "last_updated": "2026-09-07T17:53:01.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
