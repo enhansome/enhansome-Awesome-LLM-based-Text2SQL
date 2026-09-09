@@ -185,7 +185,7 @@
                 "open_issues": 124,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 866,
+                "stars": 867,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -310,7 +310,7 @@
                 "open_issues": 124,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 866,
+                "stars": 867,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -623,7 +623,7 @@
                 "open_issues": 124,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 866,
+                "stars": 867,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -736,7 +736,7 @@
                 "open_issues": 5,
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
-                "stars": 348,
+                "stars": 349,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1271,7 +1271,7 @@
                 "open_issues": 4,
                 "owner": "RUCKBReasoning",
                 "repo": "OmniSQL",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "datasets",
                   "language-model",
@@ -1321,7 +1321,7 @@
                 "open_issues": 5,
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
-                "stars": 348,
+                "stars": 349,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1573,7 +1573,7 @@
             "open_issues": 431,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19908,
+            "stars": 19917,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T16:07:43Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-09T16:24:19Z",
+            "open_issues": 8,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9595,
+            "stars": 9600,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 24,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5845,
+            "stars": 5846,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:49:22.132Z",
+    "last_updated": "2026-09-09T16:51:51.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
@@ -1833,7 +1833,7 @@
       "open_issues": 0,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-LLM-based-Text2SQL",
-      "stars": 1363,
+      "stars": 1365,
       "topics": [
         "awesome",
         "awesome-text-to-sql",
