@@ -84,7 +84,7 @@
                 "open_issues": 14,
                 "owner": "RUCKBReasoning",
                 "repo": "RESDSQL",
-                "stars": 281,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -112,7 +112,7 @@
                 "open_issues": 4,
                 "owner": "Snowflake-Labs",
                 "repo": "ReFoRCE",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -182,7 +182,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 868,
@@ -307,7 +307,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 868,
@@ -620,7 +620,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:01:36Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
                 "stars": 868,
@@ -665,7 +665,7 @@
                 "open_issues": 21,
                 "owner": "antgroup",
                 "repo": "Agentar-Scale-SQL",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "agentic-ai",
                   "ai4db",
@@ -736,7 +736,7 @@
                 "open_issues": 5,
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
-                "stars": 349,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -823,7 +823,7 @@
                 "open_issues": 4,
                 "owner": "Snowflake-Labs",
                 "repo": "ReFoRCE",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1321,7 +1321,7 @@
                 "open_issues": 5,
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
-                "stars": 349,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1570,10 +1570,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T09:23:37Z",
-            "open_issues": 435,
+            "open_issues": 436,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19925,
+            "stars": 19932,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T16:18:43Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-11T16:34:32Z",
+            "open_issues": 4,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9603,
+            "stars": 9604,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 24,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5846,
+            "stars": 5847,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 6,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3753,
+            "stars": 3754,
             "topics": [
               "ai",
               "awesome",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:38:40.363Z",
+    "last_updated": "2026-09-11T16:43:23.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
