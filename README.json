@@ -1271,7 +1271,7 @@
                 "open_issues": 4,
                 "owner": "RUCKBReasoning",
                 "repo": "OmniSQL",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "datasets",
                   "language-model",
@@ -1573,7 +1573,7 @@
             "open_issues": 436,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19932,
+            "stars": 19938,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:34:32Z",
+            "last_commit": "2026-09-12T11:01:28Z",
             "open_issues": 4,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9604,
+            "stars": 9606,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 24,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5847,
+            "stars": 5846,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T16:43:23.517Z",
+    "last_updated": "2026-09-12T15:47:02.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
