@@ -157,7 +157,7 @@
                 "open_issues": 10,
                 "owner": "Satissss",
                 "repo": "LinkAlign",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "agent",
                   "data-science",
@@ -185,7 +185,7 @@
                 "open_issues": 125,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 869,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -268,7 +268,7 @@
                 "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1099,
+                "stars": 1100,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -289,7 +289,7 @@
                 "open_issues": 5,
                 "owner": "bird-bench",
                 "repo": "BIRD-Interact",
-                "stars": 1011,
+                "stars": 1012,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -310,7 +310,7 @@
                 "open_issues": 125,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 869,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -459,7 +459,7 @@
                 "open_issues": 8,
                 "owner": "taolusi",
                 "repo": "chisp",
-                "stars": 204,
+                "stars": 205,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -623,7 +623,7 @@
                 "open_issues": 125,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 869,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -886,7 +886,7 @@
                 "open_issues": 10,
                 "owner": "Satissss",
                 "repo": "LinkAlign",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "agent",
                   "data-science",
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T09:23:37Z",
+            "last_commit": "2026-09-14T05:49:30Z",
             "open_issues": 437,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19946,
+            "stars": 19954,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T11:01:28Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-14T14:13:42Z",
+            "open_issues": 1,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9607,
+            "stars": 9613,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 7,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3754,
+            "stars": 3755,
             "topics": [
               "ai",
               "awesome",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T16:35:34.464Z",
+    "last_updated": "2026-09-14T18:09:45.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
