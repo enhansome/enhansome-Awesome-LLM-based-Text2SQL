@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "bird-bench",
                 "repo": "BIRD-CRITIC-1",
-                "stars": 1100,
+                "stars": 1101,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -665,7 +665,7 @@
                 "open_issues": 21,
                 "owner": "antgroup",
                 "repo": "Agentar-Scale-SQL",
-                "stars": 473,
+                "stars": 474,
                 "topics": [
                   "agentic-ai",
                   "ai4db",
@@ -1293,7 +1293,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-11-16T04:05:39Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "hao-ai-lab",
                 "repo": "Consistency_LLM",
                 "stars": 417,
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T05:49:30Z",
-            "open_issues": 437,
+            "last_commit": "2026-09-15T15:21:03Z",
+            "open_issues": 439,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19954,
+            "stars": 19968,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:13:42Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-15T17:02:12Z",
+            "open_issues": 0,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9613,
+            "stars": 9618,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 24,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5846,
+            "stars": 5847,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 7,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3755,
+            "stars": 3757,
             "topics": [
               "ai",
               "awesome",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:09:45.075Z",
+    "last_updated": "2026-09-15T17:14:04.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
