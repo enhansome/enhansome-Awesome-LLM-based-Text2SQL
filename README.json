@@ -157,7 +157,7 @@
                 "open_issues": 10,
                 "owner": "Satissss",
                 "repo": "LinkAlign",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "agent",
                   "data-science",
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "bird-bench",
                 "repo": "BIRD-CRITIC-1",
-                "stars": 1101,
+                "stars": 1100,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -886,7 +886,7 @@
                 "open_issues": 10,
                 "owner": "Satissss",
                 "repo": "LinkAlign",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "agent",
                   "data-science",
@@ -1570,10 +1570,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-16T06:51:17Z",
-            "open_issues": 450,
+            "open_issues": 451,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20016,
+            "stars": 20024,
             "topics": [
               "agents",
               "bgi",
@@ -1603,8 +1603,8 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-20T03:14:39Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-21T16:30:23Z",
+            "open_issues": 3,
             "owner": "tobymao",
             "repo": "sqlglot",
             "stars": 9628,
@@ -1691,7 +1691,7 @@
             "open_issues": 9,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3758,
+            "stars": 3760,
             "topics": [
               "ai",
               "awesome",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:26:37.360Z",
+    "last_updated": "2026-09-21T18:18:04.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
@@ -1833,7 +1833,7 @@
       "open_issues": 2,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-LLM-based-Text2SQL",
-      "stars": 1368,
+      "stars": 1369,
       "topics": [
         "awesome",
         "awesome-text-to-sql",
