@@ -185,7 +185,7 @@
                 "open_issues": 136,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 872,
+                "stars": 873,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -268,7 +268,7 @@
                 "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1100,
+                "stars": 1099,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -310,7 +310,7 @@
                 "open_issues": 136,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 872,
+                "stars": 873,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -623,7 +623,7 @@
                 "open_issues": 136,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 872,
+                "stars": 873,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1114,7 +1114,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2024-04-22T18:13:17Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "mercatorhq",
                 "repo": "dubo-sql",
                 "stars": 13,
@@ -1229,7 +1229,7 @@
                 "open_issues": 23,
                 "owner": "XGenerationLab",
                 "repo": "XiYan-SQL",
-                "stars": 1019,
+                "stars": 1018,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1494,7 +1494,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2024-04-22T18:13:17Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "mercatorhq",
                 "repo": "dubo-sql",
                 "stars": 13,
@@ -1570,10 +1570,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-16T06:51:17Z",
-            "open_issues": 451,
+            "open_issues": 452,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20024,
+            "stars": 20032,
             "topics": [
               "agents",
               "bgi",
@@ -1603,8 +1603,8 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T16:30:23Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-22T15:57:01Z",
+            "open_issues": 8,
             "owner": "tobymao",
             "repo": "sqlglot",
             "stars": 9628,
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:18:04.167Z",
+    "last_updated": "2026-09-22T17:13:18.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
