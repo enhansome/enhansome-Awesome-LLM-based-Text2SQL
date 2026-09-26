@@ -185,7 +185,7 @@
                 "open_issues": 137,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 875,
+                "stars": 874,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -310,7 +310,7 @@
                 "open_issues": 137,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 875,
+                "stars": 874,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -623,7 +623,7 @@
                 "open_issues": 137,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 875,
+                "stars": 874,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T06:51:17Z",
-            "open_issues": 459,
+            "last_commit": "2026-09-26T09:34:21Z",
+            "open_issues": 441,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20046,
+            "stars": 20048,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T17:23:53Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-26T15:34:46Z",
+            "open_issues": 9,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9637,
+            "stars": 9638,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:30:04.849Z",
+    "last_updated": "2026-09-26T16:43:03.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
