@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 642,
+                "stars": 643,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -185,7 +185,7 @@
                 "open_issues": 137,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 874,
+                "stars": 875,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -268,7 +268,7 @@
                 "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1099,
+                "stars": 1100,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -310,7 +310,7 @@
                 "open_issues": 137,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 874,
+                "stars": 875,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -459,7 +459,7 @@
                 "open_issues": 8,
                 "owner": "taolusi",
                 "repo": "chisp",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -623,7 +623,7 @@
                 "open_issues": 137,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 874,
+                "stars": 875,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -644,7 +644,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 642,
+                "stars": 643,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1250,7 +1250,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 642,
+                "stars": 643,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T10:11:42Z",
-            "open_issues": 446,
+            "last_commit": "2026-09-29T08:39:22Z",
+            "open_issues": 450,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20058,
+            "stars": 20067,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T18:49:55Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-29T18:05:00Z",
+            "open_issues": 7,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9643,
+            "stars": 9646,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 22,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5847,
+            "stars": 5846,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T19:48:45.905Z",
+    "last_updated": "2026-09-29T18:13:47.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
@@ -1833,7 +1833,7 @@
       "open_issues": 2,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-LLM-based-Text2SQL",
-      "stars": 1369,
+      "stars": 1370,
       "topics": [
         "awesome",
         "awesome-text-to-sql",
