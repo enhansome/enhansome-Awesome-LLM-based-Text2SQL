@@ -233,27 +233,6 @@
             },
             {
               "node_type": "item",
-              "title": "BIRD-CRITIC | SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications [Paper",
-              "description": "] [Code] [Dataset] Knowledge-augmented, Long-context; #Example: 600; #DB: 95",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025 Main] SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications",
-                "homepage": "https://bird-critic.github.io/",
-                "id": 923493939,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-03-23T23:05:33Z",
-                "open_issues": 3,
-                "owner": "bird-bench",
-                "repo": "BIRD-CRITIC-1",
-                "stars": 1100,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:35:07.551Z"
-            },
-            {
-              "node_type": "item",
               "title": "Spider | Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task [Paper",
               "description": "] [Code] [Dataset] Cross-domain; #Example: 10,181; #DB: 200",
               "children": [],
@@ -268,6 +247,27 @@
                 "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
+                "stars": 1101,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:35:07.551Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BIRD-CRITIC | SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications [Paper",
+              "description": "] [Code] [Dataset] Knowledge-augmented, Long-context; #Example: 600; #DB: 95",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025 Main] SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications",
+                "homepage": "https://bird-critic.github.io/",
+                "id": 923493939,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-03-23T23:05:33Z",
+                "open_issues": 3,
+                "owner": "bird-bench",
+                "repo": "BIRD-CRITIC-1",
                 "stars": 1100,
                 "topics": []
               },
@@ -1229,7 +1229,7 @@
                 "open_issues": 23,
                 "owner": "XGenerationLab",
                 "repo": "XiYan-SQL",
-                "stars": 1018,
+                "stars": 1019,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1570,10 +1570,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T08:39:22Z",
-            "open_issues": 450,
+            "open_issues": 452,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20067,
+            "stars": 20072,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T18:05:00Z",
+            "last_commit": "2026-09-30T18:02:22Z",
             "open_issues": 7,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9646,
+            "stars": 9650,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1646,10 +1646,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-21T03:03:56Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5846,
+            "stars": 5844,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 9,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3762,
+            "stars": 3761,
             "topics": [
               "ai",
               "awesome",
@@ -1730,7 +1730,7 @@
             "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2013,
+            "stars": 2012,
             "topics": [
               "database",
               "datasets",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:13:47.717Z",
+    "last_updated": "2026-09-30T18:06:18.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
