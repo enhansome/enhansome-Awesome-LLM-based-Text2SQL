@@ -610,7 +610,7 @@
             {
               "node_type": "item",
               "title": "Spider 2.0: Evaluating Language Models on Real-world Enterprise Text-to-SQL Workflows [Paper",
-              "description": "] [Code]",
+              "description": "xlang-ai/Spider2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -631,7 +631,7 @@
             {
               "node_type": "item",
               "title": "Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation [Paper",
-              "description": "] [Code]",
+              "description": "BeachWang/DAIL-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -652,7 +652,7 @@
             {
               "node_type": "item",
               "title": "Agentar-Scale-SQL: Advancing Text-to-SQL through Orchestrated Test-Time Scaling [Paper",
-              "description": "] [Code]",
+              "description": "antgroup/Agentar-Scale-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -681,7 +681,7 @@
             {
               "node_type": "item",
               "title": "DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction [Paper",
-              "description": "] [Code]",
+              "description": "MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -702,7 +702,7 @@
             {
               "node_type": "item",
               "title": "StructGPT: A General Framework for Large Language Model to Reason over Structured Data [Paper",
-              "description": "] [Code]",
+              "description": "RUCAIBox/StructGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -723,7 +723,7 @@
             {
               "node_type": "item",
               "title": "MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "wbbeyourself/MAC-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -744,7 +744,7 @@
             {
               "node_type": "item",
               "title": "CHESS: Contextual Harnessing for Efficient SQL Synthesis [Paper",
-              "description": "] [Code]",
+              "description": "ShayanTalaei/CHESS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -765,7 +765,7 @@
             {
               "node_type": "item",
               "title": "C3: Zero-shot Text-to-SQL with ChatGPT [Paper",
-              "description": "] [Code]",
+              "description": "bigbigwatermalon/C3SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -786,7 +786,7 @@
             {
               "node_type": "item",
               "title": "RSL-SQL: Robust Schema Linking in Text-to-SQL Generation [Paper",
-              "description": "] [Code]",
+              "description": "Laqcce-cao/RSL-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -810,7 +810,7 @@
             {
               "node_type": "item",
               "title": "ReFoRCE: A Text-to-SQL Agent with Self-Refinement, Consensus Enforcement, and Column Exploration [Paper",
-              "description": "] [Code]",
+              "description": "Snowflake-Labs/ReFoRCE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -831,7 +831,7 @@
             {
               "node_type": "item",
               "title": "PET-SQL: A Prompt-Enhanced Two-Round Refinement of Text-to-SQL with Cross-consistency [Paper",
-              "description": "] [Code]",
+              "description": "zhshLii/PETSQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -852,7 +852,7 @@
             {
               "node_type": "item",
               "title": "LEVER: Learning to Verify Language-to-Code Generation with Execution [Paper",
-              "description": "] [Code]",
+              "description": "niansong1996/lever",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -873,7 +873,7 @@
             {
               "node_type": "item",
               "title": "LinkAlign: Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "Satissss/LinkAlign",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -901,7 +901,7 @@
             {
               "node_type": "item",
               "title": "CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning [Paper",
-              "description": "] [Code]",
+              "description": "CycloneBoy/csc_sql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -926,7 +926,7 @@
             {
               "node_type": "item",
               "title": "Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation [Paper",
-              "description": "] [Code]",
+              "description": "quge2023/TA-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -947,7 +947,7 @@
             {
               "node_type": "item",
               "title": "E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "HasanAlpCaferoglu/E-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -968,7 +968,7 @@
             {
               "node_type": "item",
               "title": "Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm [Paper",
-              "description": "] [Code]",
+              "description": "FlyingFeather/DEA-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -989,7 +989,7 @@
             {
               "node_type": "item",
               "title": "Natural Language to Code Translation with Execution [Paper",
-              "description": "] [Code]",
+              "description": "facebookresearch/mbr-exec",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1010,7 +1010,7 @@
             {
               "node_type": "item",
               "title": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments [Paper",
-              "description": "] [Code]",
+              "description": "OSU-NLP-Group/Middleware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1035,7 +1035,7 @@
             {
               "node_type": "item",
               "title": "MetaSQL: A Generate-then-Rank Framework for Natural Language to SQL Translation [Paper",
-              "description": "] [Code]",
+              "description": "Kaimary/MetaSQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1062,7 +1062,7 @@
             {
               "node_type": "item",
               "title": "Gen-SQL: Efficient Text-to-SQL by Bridging Natural Language Question and Database Schema with Pseudo-Schema [Paper",
-              "description": "] [Code]",
+              "description": "jieshi10/gensql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1083,7 +1083,7 @@
             {
               "node_type": "item",
               "title": "ACT-SQL: In-Context Learning for Text-to-SQL with Automatically-Generated Chain-of-Thought [Paper",
-              "description": "] [Code]",
+              "description": "X-LANCE/text2sql-GPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1104,7 +1104,7 @@
             {
               "node_type": "item",
               "title": "Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "mercatorhq/dubo-sql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1125,7 +1125,7 @@
             {
               "node_type": "item",
               "title": "MAGIC: Generating Self-Correction Guideline for In-Context Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "microsoft/SynQo",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1146,7 +1146,7 @@
             {
               "node_type": "item",
               "title": "Selective Demonstrations for Cross-domain Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "shuaichenchang/ODIS-Text-to-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1167,7 +1167,7 @@
             {
               "node_type": "item",
               "title": "Improving Demonstration Diversity by Human-Free Fusing for Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "zirui-HIT/Fused",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1188,7 +1188,7 @@
             {
               "node_type": "item",
               "title": "Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM [Paper",
-              "description": "] [Code]",
+              "description": "Rcrossmeister/Knowledge-to-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1216,7 +1216,7 @@
             {
               "node_type": "item",
               "title": "A Preview of XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "XGenerationLab/XiYan-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1237,7 +1237,7 @@
             {
               "node_type": "item",
               "title": "Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation [Paper",
-              "description": "] [Code]",
+              "description": "BeachWang/DAIL-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1258,7 +1258,7 @@
             {
               "node_type": "item",
               "title": "OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale [Paper",
-              "description": "] [Code]",
+              "description": "RUCKBReasoning/OmniSQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1283,7 +1283,7 @@
             {
               "node_type": "item",
               "title": "CLLMs: Consistency Large Language Models [Paper",
-              "description": "] [Code]",
+              "description": "hao-ai-lab/Consistency_LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1308,7 +1308,7 @@
             {
               "node_type": "item",
               "title": "MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "wbbeyourself/MAC-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1329,7 +1329,7 @@
             {
               "node_type": "item",
               "title": "CodeS: Towards Building Open-source Language Models for Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "RUCKBReasoning/codes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1350,7 +1350,7 @@
             {
               "node_type": "item",
               "title": "StructLM: Towards Building Generalist Models for Structured Knowledge Grounding [Paper",
-              "description": "] [Code]",
+              "description": "TIGER-AI-Lab/StructLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1375,7 +1375,7 @@
             {
               "node_type": "item",
               "title": "Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models [Paper",
-              "description": "] [Code]",
+              "description": "xufangzhi/Symbol-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1400,7 +1400,7 @@
             {
               "node_type": "item",
               "title": "DTS-SQL: Decomposed Text-to-SQL with Small Large Language Models [Paper",
-              "description": "] [Code]",
+              "description": "MohammadrezaPourreza/DTS-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1421,7 +1421,7 @@
             {
               "node_type": "item",
               "title": "MARS-SQL: A multi-agent reinforcement learning framework for Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "YangHaolin0526/MARS-SQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1442,7 +1442,7 @@
             {
               "node_type": "item",
               "title": "MSc-SQL: Multi-Sample Critiquing Small Language Models For Text-To-SQL Translation [Paper",
-              "description": "] [Code]",
+              "description": "layer6ai-labs/msc-sql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1463,7 +1463,7 @@
             {
               "node_type": "item",
               "title": "ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "D2I-ai/Route",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1484,7 +1484,7 @@
             {
               "node_type": "item",
               "title": "Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "mercatorhq/dubo-sql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1505,7 +1505,7 @@
             {
               "node_type": "item",
               "title": "SHARE: An SLM-based Hierarchical Action CorREction Assistant for Text-to-SQL [Paper",
-              "description": "] [Code]",
+              "description": "quge2023/SHARE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1526,7 +1526,7 @@
             {
               "node_type": "item",
               "title": "OpenSQL: Data-Efficient Text-to-SQL for Open-Source LLMs via Synthesized Intermediate Supervision [Paper",
-              "description": "] [Code]",
+              "description": "TsinghuaDatabaseGroup/OpenSQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1560,7 +1560,7 @@
         {
           "node_type": "item",
           "title": "DB-GPT",
-          "description": null,
+          "description": "eosphoros-ai/DB-GPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1594,7 +1594,7 @@
         {
           "node_type": "item",
           "title": "SQLGlot",
-          "description": null,
+          "description": "tobymao/sqlglot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1603,8 +1603,8 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:48:58Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-02T18:46:20Z",
+            "open_issues": 9,
             "owner": "tobymao",
             "repo": "sqlglot",
             "stars": 9653,
@@ -1636,7 +1636,7 @@
         {
           "node_type": "item",
           "title": "SQLChat",
-          "description": null,
+          "description": "sqlchat/sqlchat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1649,7 +1649,7 @@
             "open_issues": 23,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5843,
+            "stars": 5844,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1678,7 +1678,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Text2SQL",
-          "description": null,
+          "description": "eosphoros-ai/Awesome-Text2SQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1717,7 +1717,7 @@
         {
           "node_type": "item",
           "title": "DB-GPT-Hub",
-          "description": null,
+          "description": "eosphoros-ai/DB-GPT-Hub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1749,7 +1749,7 @@
         {
           "node_type": "item",
           "title": "PremSQL",
-          "description": null,
+          "description": "premAI-io/premsql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1777,7 +1777,7 @@
         {
           "node_type": "item",
           "title": "PolicyStrata",
-          "description": null,
+          "description": "raintree-technology/policystrata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:00:06.566Z",
+    "last_updated": "2026-10-03T04:25:22.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
