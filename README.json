@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 643,
+                "stars": 642,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -644,7 +644,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 643,
+                "stars": 642,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1250,7 +1250,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 643,
+                "stars": 642,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:53:52Z",
-            "open_issues": 451,
+            "last_commit": "2026-10-03T14:47:37Z",
+            "open_issues": 449,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20074,
+            "stars": 20075,
             "topics": [
               "agents",
               "bgi",
@@ -1604,10 +1604,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T18:46:20Z",
-            "open_issues": 9,
+            "open_issues": 14,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9653,
+            "stars": 9654,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:22.181Z",
+    "last_updated": "2026-10-03T16:38:54.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
