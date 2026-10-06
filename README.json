@@ -247,7 +247,7 @@
                 "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1102,
+                "stars": 1101,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -865,7 +865,7 @@
                 "open_issues": 2,
                 "owner": "niansong1996",
                 "repo": "lever",
-                "stars": 90,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1570,7 +1570,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-04T13:43:25Z",
-            "open_issues": 451,
+            "open_issues": 449,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
             "stars": 20079,
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:44:14Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-06T18:24:50Z",
+            "open_issues": 16,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9663,
+            "stars": 9664,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 22,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5842,
+            "stars": 5843,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:09.388Z",
+    "last_updated": "2026-10-06T18:34:27.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
