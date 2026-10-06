@@ -112,7 +112,7 @@
                 "open_issues": 4,
                 "owner": "Snowflake-Labs",
                 "repo": "ReFoRCE",
-                "stars": 142,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -185,7 +185,7 @@
                 "open_issues": 137,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -310,7 +310,7 @@
                 "open_issues": 137,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -459,7 +459,7 @@
                 "open_issues": 8,
                 "owner": "taolusi",
                 "repo": "chisp",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -623,7 +623,7 @@
                 "open_issues": 137,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -757,7 +757,7 @@
                 "open_issues": 14,
                 "owner": "ShayanTalaei",
                 "repo": "CHESS",
-                "stars": 281,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -823,7 +823,7 @@
                 "open_issues": 4,
                 "owner": "Snowflake-Labs",
                 "repo": "ReFoRCE",
-                "stars": 142,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1229,7 +1229,7 @@
                 "open_issues": 23,
                 "owner": "XGenerationLab",
                 "repo": "XiYan-SQL",
-                "stars": 1018,
+                "stars": 1017,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1570,10 +1570,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-04T13:43:25Z",
-            "open_issues": 449,
+            "open_issues": 451,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20078,
+            "stars": 20079,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T20:39:42Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-06T07:44:14Z",
+            "open_issues": 18,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9662,
+            "stars": 9663,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T20:56:57.720Z",
+    "last_updated": "2026-10-06T10:33:09.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
