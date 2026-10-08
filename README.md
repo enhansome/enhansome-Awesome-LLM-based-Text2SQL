@@ -112,7 +112,7 @@ In the era of LLMs, two benchmarks and their variants/extensions are widely reco
 | ![ICLR2025](https://img.shields.io/badge/ICLR2025Workshop-7CFC00) ReFoRCE + o3             | **37.11**  | 37.84      | \[[Paper](https://openreview.net/pdf?id=OuFIfDBwQd)] \[[Code](https://github.com/Snowflake-Labs/ReFoRCE) ⭐ 143 \| 🐛 4 \| 🌐 Python \| 📅 2025-08-01] | 2025-05-22 |
 | ![arXiv2024](https://img.shields.io/badge/arXiv2024-B31B1B) RSL-SQL + o3                   | -          | 33.09      | \[[Paper](https://arxiv.org/pdf/2411.00073)] \[[Code](https://github.com/Laqcce-cao/RSL-SQL) ⭐ 160 \| 🐛 0 \| 🌐 Python \| 📅 2025-09-17]             | 2025-07-10 |
 | ![EMNLP2025](https://img.shields.io/badge/EMNLP2025-00BFFF) LinkAlign + DeepSeek-R1        | -          | 33.09      | \[[Paper](https://arxiv.org/pdf/2503.18596)] \[[Code](https://github.com/Satissss/LinkAlign) ⭐ 84 \| 🐛 10 \| 🌐 Python \| 📅 2025-06-18]             | 2025-04-27 |
-| ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) Spider-Agent + Claude-3.7-Sonnet | -          | 28.52      | \[[Paper](https://openreview.net/pdf?id=XmProj9cPs)] \[[Code](https://github.com/xlang-ai/Spider2) ⭐ 876 \| 🐛 137 \| 🌐 HTML \| 📅 2026-08-12]       | 2025-03-16 |
+| ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) Spider-Agent + Claude-3.7-Sonnet | -          | 28.52      | \[[Paper](https://openreview.net/pdf?id=XmProj9cPs)] \[[Code](https://github.com/xlang-ai/Spider2) ⭐ 877 \| 🐛 138 \| 🌐 HTML \| 📅 2026-08-12]       | 2025-03-16 |
 
 ***
 
@@ -151,7 +151,7 @@ In the era of LLMs, two benchmarks and their variants/extensions are widely reco
 * ![NeurIPS2025](https://img.shields.io/badge/NeurIPS2025-2E8B57) **BIRD-CRITIC** | SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications \[[Paper](https://openreview.net/pdf?id=yRxXTdElLv)] \[[Code](https://github.com/bird-bench/BIRD-CRITIC-1) ⭐ 1,100 | 🐛 3 | 🌐 Python | 📅 2026-03-23] \[[Dataset](https://huggingface.co/datasets/birdsql/livesqlbench-base-lite)]<br>
   *Knowledge-augmented, Long-context; #Example: 600; #DB: 95*
 * ![ICLR2026](https://img.shields.io/badge/ICLR2026-7CFC00) **BIRD-INTERACT** | BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation for Large Language Models via Lens of Dynamic Interactions \[[Paper](https://openreview.net/pdf?id=nHrYBGujps)] \[[Code](https://github.com/bird-bench/BIRD-Interact) ⭐ 1,014 | 🐛 6 | 🌐 Python | 📅 2026-03-29] \[[Dataset](https://huggingface.co/datasets/birdsql/bird-interact-full)]<br>*Long-context, Interaction; #Example: 600; #DB: 95*
-* ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) **Spider2.0** | Spider 2.0: Evaluating Language Models on Real-world Enterprise Text-to-SQL Workflows \[[Paper](https://openreview.net/pdf?id=XmProj9cPs)] \[[Code](https://github.com/xlang-ai/Spider2) ⭐ 876 | 🐛 137 | 🌐 HTML | 📅 2026-08-12] \[[Dataset](https://github.com/xlang-ai/Spider2/blob/main/spider2-lite/spider2-lite.jsonl) ⭐ 876 | 🐛 137 | 🌐 HTML | 📅 2026-08-12]<br>
+* ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) **Spider2.0** | Spider 2.0: Evaluating Language Models on Real-world Enterprise Text-to-SQL Workflows \[[Paper](https://openreview.net/pdf?id=XmProj9cPs)] \[[Code](https://github.com/xlang-ai/Spider2) ⭐ 877 | 🐛 138 | 🌐 HTML | 📅 2026-08-12] \[[Dataset](https://github.com/xlang-ai/Spider2/blob/main/spider2-lite/spider2-lite.jsonl) ⭐ 877 | 🐛 138 | 🌐 HTML | 📅 2026-08-12]<br>
   *Knowledge-augmented, Long-context; #Example: 632; #DB: 213*
 * ![Findings2020](https://img.shields.io/badge/EMNLP2020Findings-87CEFA) **SQUALL** | On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries \[[Paper](https://aclanthology.org/2020.findings-emnlp.167.pdf)] \[[Code](https://github.com/tzshi/squall) ⭐ 55 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-09] <br>
   *Cross-domain, Cross-lingual; #Example: 11,468; #DB: 1,679*
@@ -168,7 +168,7 @@ In the era of LLMs, two benchmarks and their variants/extensions are widely reco
 
 ### Post-annotated Datasets
 
-* ![ACL2022](https://img.shields.io/badge/ACL2022-1E90FF) **ADVETA** | Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation \[[Paper](https://aclanthology.org/2022.acl-long.142.pdf)] \[[Code](https://github.com/microsoft/ContextualSP/tree/master/robustness_of_text_to_sql) ⭐ 387 | 🐛 19 | 🌐 Python | 📅 2023-11-10] \[[Dataset](https://github.com/microsoft/ContextualSP/blob/master/robustness_of_text_to_sql/adveta_1.0.zip) ⭐ 387 | 🐛 19 | 🌐 Python | 📅 2023-11-10]<br>
+* ![ACL2022](https://img.shields.io/badge/ACL2022-1E90FF) **ADVETA** | Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation \[[Paper](https://aclanthology.org/2022.acl-long.142.pdf)] \[[Code](https://github.com/microsoft/ContextualSP/tree/master/robustness_of_text_to_sql) ⚠️ Archived] \[[Dataset](https://github.com/microsoft/ContextualSP/blob/master/robustness_of_text_to_sql/adveta_1.0.zip) ⚠️ Archived]<br>
   *Robustness; Adversarial table perturbation*
 * ![EMNLP2019](https://img.shields.io/badge/EMNLP2019-00BFFF) **CSpider** | A Pilot Study for Chinese SQL Semantic Parsing \[[Paper](https://aclanthology.org/D19-1377.pdf)] \[[Code](https://github.com/taolusi/chisp) ⭐ 207 | 🐛 8 | 🌐 Python | 📅 2021-03-12]<br>*Cross-lingual; Chinese version of Spider*
 * ![EMNLP2019](https://img.shields.io/badge/EMNLP2019-00BFFF) **SParC** | SParC: Cross-Domain Semantic Parsing in Context \[[Paper](https://aclanthology.org/P19-1443.pdf)] \[[Code](https://github.com/taoyds/sparc) ⭐ 80 | 🐛 10 | 🌐 Python | 📅 2023-05-24] \[[Dataset](https://drive.usercontent.google.com/download?id=1Uu7NMHTR1tdQw1t7bAuM7OPU4LElVKfg\&export=download\&authuser=0)]<br>*Context-dependent; Annotate conversational contents*
@@ -188,7 +188,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 
 ### In-context Learning
 
-* ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) Spider 2.0: Evaluating Language Models on Real-world Enterprise Text-to-SQL Workflows \[[Paper](https://openreview.net/pdf?id=XmProj9cPs)] \[[Code](https://github.com/xlang-ai/Spider2) ⭐ 876 | 🐛 137 | 🌐 HTML | 📅 2026-08-12]
+* ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) Spider 2.0: Evaluating Language Models on Real-world Enterprise Text-to-SQL Workflows \[[Paper](https://openreview.net/pdf?id=XmProj9cPs)] \[[Code](https://github.com/xlang-ai/Spider2) ⭐ 877 | 🐛 138 | 🌐 HTML | 📅 2026-08-12]
 * ![VLDB2024](https://img.shields.io/badge/VLDB2024-800080) Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation \[[Paper](https://www.vldb.org/pvldb/vol17/p1132-gao.pdf)] \[[Code](https://github.com/BeachWang/DAIL-SQL) ⭐ 642 | 🐛 11 | 🌐 Python | 📅 2025-03-07]
 * ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) Agentar-Scale-SQL: Advancing Text-to-SQL through Orchestrated Test-Time Scaling \[[Paper](https://arxiv.org/pdf/2509.24403)] \[[Code](https://github.com/antgroup/Agentar-Scale-SQL) ⭐ 477 | 🐛 21 | 🌐 Python | 📅 2026-05-09]
 * ![NeurIPS2023](https://img.shields.io/badge/NeurIPS2023-2E8B57) DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction \[[Paper](https://openreview.net/pdf?id=p53QDxSIc5)] \[[Code](https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting) ⭐ 422 | 🐛 22 | 🌐 Python | 📅 2024-03-30]
@@ -260,11 +260,11 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 
 ## 📦 Projects
 
-* [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,080 | 🐛 450 | 🌐 Python | 📅 2026-10-04 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)](https://github.com/eosphoros-ai/DB-GPT/stargazers) ⭐ 20,080 | 🐛 450 | 🌐 Python | 📅 2026-10-04
-* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,665 | 🐛 9 | 🌐 Python | 📅 2026-10-07 [![GitHub Repo stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=social)](https://github.com/premAI-io/tobymao/sqlglot)
+* [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,090 | 🐛 450 | 🌐 Python | 📅 2026-10-04 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)](https://github.com/eosphoros-ai/DB-GPT/stargazers) ⭐ 20,090 | 🐛 450 | 🌐 Python | 📅 2026-10-04
+* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,666 | 🐛 7 | 🌐 Python | 📅 2026-10-08 [![GitHub Repo stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=social)](https://github.com/premAI-io/tobymao/sqlglot)
 * [SQLChat](https://github.com/sqlchat/sqlchat) ⭐ 5,842 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-21 [![GitHub Repo stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)](https://github.com/sqlchat/sqlchat/stargazers) ⭐ 5,842 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-21
-* [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) ⭐ 3,762 | 🐛 10 | 📅 2026-01-26 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/Awesome-Text2SQL?style=social)](https://github.com/premAI-io/premsql/stargazers) ⭐ 461 | 🐛 11 | 🌐 Python | 📅 2025-02-14
-* [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,012 | 🐛 73 | 🌐 Python | 📅 2025-07-02 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT-Hub?style=social)](https://github.com/eosphoros-ai/DB-GPT-Hub/stargazers) ⭐ 2,012 | 🐛 73 | 🌐 Python | 📅 2025-07-02
+* [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) ⭐ 3,765 | 🐛 9 | 📅 2026-01-26 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/Awesome-Text2SQL?style=social)](https://github.com/premAI-io/premsql/stargazers) ⭐ 461 | 🐛 11 | 🌐 Python | 📅 2025-02-14
+* [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,013 | 🐛 73 | 🌐 Python | 📅 2025-07-02 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT-Hub?style=social)](https://github.com/eosphoros-ai/DB-GPT-Hub/stargazers) ⭐ 2,013 | 🐛 73 | 🌐 Python | 📅 2025-07-02
 * [PremSQL](https://github.com/premAI-io/premsql) ⭐ 461 | 🐛 11 | 🌐 Python | 📅 2025-02-14 [![GitHub Repo stars](https://img.shields.io/github/stars/premAI-io/premsql?style=social)](https://github.com/premAI-io/premsql/stargazers) ⭐ 461 | 🐛 11 | 🌐 Python | 📅 2025-02-14
 * [PolicyStrata](https://github.com/raintree-technology/policystrata) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-10-07 [![GitHub Repo stars](https://img.shields.io/github/stars/raintree-technology/policystrata?style=social)](https://github.com/raintree-technology/policystrata/stargazers) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-10-07
 * [AI-for-Database](https://aifordatabase.com)
@@ -282,4 +282,4 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
