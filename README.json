@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 642,
+                "stars": 643,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -289,7 +289,7 @@
                 "open_issues": 6,
                 "owner": "bird-bench",
                 "repo": "BIRD-Interact",
-                "stars": 1014,
+                "stars": 1015,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -644,7 +644,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 642,
+                "stars": 643,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1250,7 +1250,7 @@
                 "open_issues": 11,
                 "owner": "BeachWang",
                 "repo": "DAIL-SQL",
-                "stars": 642,
+                "stars": 643,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1539,7 +1539,7 @@
                 "open_issues": 0,
                 "owner": "TsinghuaDatabaseGroup",
                 "repo": "OpenSQL",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "text-to-sql"
                 ]
@@ -1573,7 +1573,7 @@
             "open_issues": 450,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20090,
+            "stars": 20105,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T17:12:09Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-09T16:32:49Z",
+            "open_issues": 3,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9666,
+            "stars": 9669,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T18:59:16.488Z",
+    "last_updated": "2026-10-09T18:29:11.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
