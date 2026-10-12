@@ -480,7 +480,7 @@
                 "open_issues": 10,
                 "owner": "taoyds",
                 "repo": "sparc",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1271,7 +1271,7 @@
                 "open_issues": 4,
                 "owner": "RUCKBReasoning",
                 "repo": "OmniSQL",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "datasets",
                   "language-model",
@@ -1570,10 +1570,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-11T08:19:47Z",
-            "open_issues": 448,
+            "open_issues": 449,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20115,
+            "stars": 20125,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T23:06:12Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-12T20:01:56Z",
+            "open_issues": 3,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9673,
+            "stars": 9676,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 22,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5842,
+            "stars": 5843,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1786,8 +1786,8 @@
             "id": 1279645599,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T12:07:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-12T15:29:14Z",
+            "open_issues": 0,
             "owner": "raintree-technology",
             "repo": "policystrata",
             "stars": 2,
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T17:45:40.386Z",
+    "last_updated": "2026-10-12T21:22:58.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
