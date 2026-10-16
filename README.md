@@ -248,7 +248,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 * ![COLM2024](https://img.shields.io/badge/COLM2024-20B2AA) StructLM: Towards Building Generalist Models for Structured Knowledge Grounding \[[Paper](https://openreview.net/pdf?id=EKBPn7no4y)] \[[Code](https://github.com/TIGER-AI-Lab/StructLM) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2024-10-19]
 * ![ACL2024](https://img.shields.io/badge/ACL2024-1E90FF) Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models \[[Paper](https://aclanthology.org/2024.acl-long.707.pdf)] \[[Code](https://github.com/xufangzhi/Symbol-LLM) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2024-07-10]
 * ![Findings2024](https://img.shields.io/badge/EMNLP2024Findings-87CEFA) DTS-SQL: Decomposed Text-to-SQL with Small Large Language Models \[[Paper](https://aclanthology.org/2024.findings-emnlp.481.pdf)] \[[Code](https://github.com/MohammadrezaPourreza/DTS-SQL) ⭐ 55 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2024-07-29]
-* ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) MARS-SQL: A multi-agent reinforcement learning framework for Text-to-SQL \[[Paper](https://arxiv.org/pdf/2511.01008)] \[[Code](https://github.com/YangHaolin0526/MARS-SQL) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2026-08-12]
+* ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) MARS-SQL: A multi-agent reinforcement learning framework for Text-to-SQL \[[Paper](https://arxiv.org/pdf/2511.01008)] \[[Code](https://github.com/YangHaolin0526/MARS-SQL) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2026-08-12]
 * ![NAACL2025](https://img.shields.io/badge/NAACL2025-4682B4) MSc-SQL: Multi-Sample Critiquing Small Language Models For Text-To-SQL Translation \[[Paper](https://aclanthology.org/2025.naacl-long.107.pdf)] \[[Code](https://github.com/layer6ai-labs/msc-sql) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
 * ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL \[[Paper](https://openreview.net/pdf?id=BAglD6NGy0)] \[[Code](https://github.com/D2I-ai/Route) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-05-15]
 * ![arXiv2024](https://img.shields.io/badge/arXiv2024-B31B1B) Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL \[[Paper](https://arxiv.org/pdf/2404.12560)] \[[Code](https://github.com/mercatorhq/dubo-sql) ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-04-22]
@@ -260,10 +260,10 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 
 ## 📦 Projects
 
-* [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,148 | 🐛 458 | 🌐 Python | 📅 2026-10-11 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)](https://github.com/eosphoros-ai/DB-GPT/stargazers) ⭐ 20,148 | 🐛 458 | 🌐 Python | 📅 2026-10-11
-* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,684 | 🐛 8 | 🌐 Python | 📅 2026-10-15 [![GitHub Repo stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=social)](https://github.com/premAI-io/tobymao/sqlglot)
-* [SQLChat](https://github.com/sqlchat/sqlchat) ⭐ 5,842 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-21 [![GitHub Repo stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)](https://github.com/sqlchat/sqlchat/stargazers) ⭐ 5,842 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-21
-* [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) ⭐ 3,767 | 🐛 9 | 📅 2026-01-26 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/Awesome-Text2SQL?style=social)](https://github.com/premAI-io/premsql/stargazers) ⭐ 461 | 🐛 11 | 🌐 Python | 📅 2025-02-14
+* [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,156 | 🐛 458 | 🌐 Python | 📅 2026-10-11 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)](https://github.com/eosphoros-ai/DB-GPT/stargazers) ⭐ 20,156 | 🐛 458 | 🌐 Python | 📅 2026-10-11
+* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,686 | 🐛 11 | 🌐 Python | 📅 2026-10-16 [![GitHub Repo stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=social)](https://github.com/premAI-io/tobymao/sqlglot)
+* [SQLChat](https://github.com/sqlchat/sqlchat) ⭐ 5,843 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-21 [![GitHub Repo stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)](https://github.com/sqlchat/sqlchat/stargazers) ⭐ 5,843 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-21
+* [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) ⭐ 3,769 | 🐛 10 | 📅 2026-01-26 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/Awesome-Text2SQL?style=social)](https://github.com/premAI-io/premsql/stargazers) ⭐ 461 | 🐛 11 | 🌐 Python | 📅 2025-02-14
 * [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,013 | 🐛 73 | 🌐 Python | 📅 2025-07-02 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT-Hub?style=social)](https://github.com/eosphoros-ai/DB-GPT-Hub/stargazers) ⭐ 2,013 | 🐛 73 | 🌐 Python | 📅 2025-07-02
 * [PremSQL](https://github.com/premAI-io/premsql) ⭐ 461 | 🐛 11 | 🌐 Python | 📅 2025-02-14 [![GitHub Repo stars](https://img.shields.io/github/stars/premAI-io/premsql?style=social)](https://github.com/premAI-io/premsql/stargazers) ⭐ 461 | 🐛 11 | 🌐 Python | 📅 2025-02-14
 * [PolicyStrata](https://github.com/raintree-technology/policystrata) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-12 [![GitHub Repo stars](https://img.shields.io/github/stars/raintree-technology/policystrata?style=social)](https://github.com/raintree-technology/policystrata/stargazers) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-12
@@ -282,4 +282,4 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

@@ -1434,7 +1434,7 @@
                 "open_issues": 4,
                 "owner": "YangHaolin0526",
                 "repo": "MARS-SQL",
-                "stars": 49,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1573,7 +1573,7 @@
             "open_issues": 458,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20148,
+            "stars": 20156,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-15T17:11:35Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-16T16:45:15Z",
+            "open_issues": 11,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9684,
+            "stars": 9686,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 22,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5842,
+            "stars": 5843,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1688,10 +1688,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-26T01:46:37Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3767,
+            "stars": 3769,
             "topics": [
               "ai",
               "awesome",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T17:18:10.600Z",
+    "last_updated": "2026-10-16T16:53:42.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
