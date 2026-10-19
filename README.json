@@ -63,7 +63,7 @@
                 "open_issues": 4,
                 "owner": "bigbigwatermalon",
                 "repo": "C3SQL",
-                "stars": 168,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -185,7 +185,7 @@
                 "open_issues": 139,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 880,
+                "stars": 881,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -310,7 +310,7 @@
                 "open_issues": 139,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 880,
+                "stars": 881,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -431,7 +431,7 @@
                 "open_issues": 19,
                 "owner": "microsoft",
                 "repo": "ContextualSP",
-                "stars": 386,
+                "stars": 387,
                 "topics": [
                   "compositional-generalization",
                   "conversational-semantic-parsing",
@@ -623,7 +623,7 @@
                 "open_issues": 139,
                 "owner": "xlang-ai",
                 "repo": "Spider2",
-                "stars": 880,
+                "stars": 881,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -736,7 +736,7 @@
                 "open_issues": 5,
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
-                "stars": 351,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -778,7 +778,7 @@
                 "open_issues": 4,
                 "owner": "bigbigwatermalon",
                 "repo": "C3SQL",
-                "stars": 168,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1321,7 +1321,7 @@
                 "open_issues": 5,
                 "owner": "wbbeyourself",
                 "repo": "MAC-SQL",
-                "stars": 351,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T08:19:47Z",
-            "open_issues": 458,
+            "last_commit": "2026-10-19T16:09:56Z",
+            "open_issues": 456,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20158,
+            "stars": 20159,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T12:03:32Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-19T16:51:38Z",
+            "open_issues": 4,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9691,
+            "stars": 9696,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 22,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5843,
+            "stars": 5845,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 10,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3769,
+            "stars": 3770,
             "topics": [
               "ai",
               "awesome",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:05:47.069Z",
+    "last_updated": "2026-10-19T18:49:03.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
