@@ -939,7 +939,7 @@
                 "open_issues": 2,
                 "owner": "quge2023",
                 "repo": "TA-SQL",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T16:09:56Z",
-            "open_issues": 456,
+            "last_commit": "2026-10-20T15:12:09Z",
+            "open_issues": 455,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20159,
+            "stars": 20169,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T16:51:38Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-20T17:14:36Z",
+            "open_issues": 7,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9696,
+            "stars": 9703,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 10,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3770,
+            "stars": 3772,
             "topics": [
               "ai",
               "awesome",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T18:49:03.954Z",
+    "last_updated": "2026-10-20T17:28:30.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
@@ -1833,7 +1833,7 @@
       "open_issues": 2,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-LLM-based-Text2SQL",
-      "stars": 1373,
+      "stars": 1374,
       "topics": [
         "awesome",
         "awesome-text-to-sql",
