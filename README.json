@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T16:30:17Z",
+            "last_commit": "2026-10-23T09:05:43Z",
             "open_issues": 458,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20178,
+            "stars": 20185,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T16:14:32Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-23T16:36:20Z",
+            "open_issues": 14,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9707,
+            "stars": 9716,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 22,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5845,
+            "stars": 5847,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1786,7 +1786,7 @@
             "id": 1279645599,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T15:29:14Z",
+            "last_commit": "2026-10-22T20:11:21Z",
             "open_issues": 0,
             "owner": "raintree-technology",
             "repo": "policystrata",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T17:33:51.082Z",
+    "last_updated": "2026-10-23T17:23:34.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
