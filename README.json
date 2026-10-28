@@ -268,7 +268,7 @@
                 "open_issues": 3,
                 "owner": "bird-bench",
                 "repo": "BIRD-CRITIC-1",
-                "stars": 1101,
+                "stars": 1102,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -289,7 +289,7 @@
                 "open_issues": 6,
                 "owner": "bird-bench",
                 "repo": "BIRD-Interact",
-                "stars": 1018,
+                "stars": 1019,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T06:19:50Z",
-            "open_issues": 482,
+            "last_commit": "2026-10-28T13:01:50Z",
+            "open_issues": 483,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20201,
+            "stars": 20210,
             "topics": [
               "agents",
               "bgi",
@@ -1603,8 +1603,8 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T16:37:10Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-28T17:40:46Z",
+            "open_issues": 6,
             "owner": "tobymao",
             "repo": "sqlglot",
             "stars": 9730,
@@ -1646,10 +1646,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-21T05:16:57Z",
-            "open_issues": 23,
+            "open_issues": 25,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5849,
+            "stars": 5848,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:12:17.336Z",
+    "last_updated": "2026-10-28T18:27:50.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
