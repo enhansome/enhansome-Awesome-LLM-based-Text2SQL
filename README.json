@@ -289,7 +289,7 @@
                 "open_issues": 6,
                 "owner": "bird-bench",
                 "repo": "BIRD-Interact",
-                "stars": 1019,
+                "stars": 1020,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -665,7 +665,7 @@
                 "open_issues": 21,
                 "owner": "antgroup",
                 "repo": "Agentar-Scale-SQL",
-                "stars": 480,
+                "stars": 479,
                 "topics": [
                   "agentic-ai",
                   "ai4db",
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T13:01:50Z",
-            "open_issues": 483,
+            "last_commit": "2026-10-29T15:36:58Z",
+            "open_issues": 490,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20210,
+            "stars": 20214,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T17:40:46Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-29T18:06:25Z",
+            "open_issues": 1,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9730,
+            "stars": 9736,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 11,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3777,
+            "stars": 3776,
             "topics": [
               "ai",
               "awesome",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:27:50.221Z",
+    "last_updated": "2026-10-29T18:37:35.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
