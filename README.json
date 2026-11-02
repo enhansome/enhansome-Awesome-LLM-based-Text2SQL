@@ -219,7 +219,7 @@
                 "open_issues": 29,
                 "owner": "salesforce",
                 "repo": "WikiSQL",
-                "stars": 1802,
+                "stars": 1801,
                 "topics": [
                   "database",
                   "dataset",
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T04:01:32Z",
-            "open_issues": 494,
+            "last_commit": "2026-11-02T08:32:56Z",
+            "open_issues": 498,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20233,
+            "stars": 20245,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T10:16:55Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-02T20:30:41Z",
+            "open_issues": 3,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9743,
+            "stars": 9749,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 25,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5851,
+            "stars": 5850,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:03:40.989Z",
+    "last_updated": "2026-11-02T21:53:39.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
