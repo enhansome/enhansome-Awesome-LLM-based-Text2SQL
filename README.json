@@ -757,7 +757,7 @@
                 "open_issues": 14,
                 "owner": "ShayanTalaei",
                 "repo": "CHESS",
-                "stars": 286,
+                "stars": 287,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1271,7 +1271,7 @@
                 "open_issues": 4,
                 "owner": "RUCKBReasoning",
                 "repo": "OmniSQL",
-                "stars": 456,
+                "stars": 457,
                 "topics": [
                   "datasets",
                   "language-model",
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T08:32:56Z",
-            "open_issues": 498,
+            "last_commit": "2026-11-03T15:44:25Z",
+            "open_issues": 499,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20245,
+            "stars": 20250,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T20:30:41Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-03T18:56:19Z",
+            "open_issues": 2,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9749,
+            "stars": 9750,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 25,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5850,
+            "stars": 5851,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 12,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3779,
+            "stars": 3780,
             "topics": [
               "ai",
               "awesome",
@@ -1786,7 +1786,7 @@
             "id": 1279645599,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T21:03:57Z",
+            "last_commit": "2026-11-03T01:37:01Z",
             "open_issues": 1,
             "owner": "raintree-technology",
             "repo": "policystrata",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T21:53:39.177Z",
+    "last_updated": "2026-11-03T19:45:21.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
