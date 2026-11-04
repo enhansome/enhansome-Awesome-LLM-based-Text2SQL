@@ -219,7 +219,7 @@
                 "open_issues": 29,
                 "owner": "salesforce",
                 "repo": "WikiSQL",
-                "stars": 1801,
+                "stars": 1800,
                 "topics": [
                   "database",
                   "dataset",
@@ -289,7 +289,7 @@
                 "open_issues": 6,
                 "owner": "bird-bench",
                 "repo": "BIRD-Interact",
-                "stars": 1021,
+                "stars": 1022,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -352,7 +352,7 @@
                 "open_issues": 1,
                 "owner": "bigbigwatermalon",
                 "repo": "FinSQL",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -865,7 +865,7 @@
                 "open_issues": 2,
                 "owner": "niansong1996",
                 "repo": "lever",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T15:44:25Z",
+            "last_commit": "2026-11-04T15:48:14Z",
             "open_issues": 499,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20250,
+            "stars": 20258,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T18:56:19Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-04T18:53:32Z",
+            "open_issues": 3,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9750,
+            "stars": 9758,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 25,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5851,
+            "stars": 5853,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:45:21.212Z",
+    "last_updated": "2026-11-04T19:59:00.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
