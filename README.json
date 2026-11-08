@@ -1229,7 +1229,7 @@
                 "open_issues": 23,
                 "owner": "XGenerationLab",
                 "repo": "XiYan-SQL",
-                "stars": 1019,
+                "stars": 1018,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T15:48:14Z",
-            "open_issues": 510,
+            "last_commit": "2026-11-08T13:58:58Z",
+            "open_issues": 505,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20269,
+            "stars": 20273,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T00:37:24Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-07T19:39:14Z",
+            "open_issues": 16,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9766,
+            "stars": 9769,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1649,7 +1649,7 @@
             "open_issues": 25,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5855,
+            "stars": 5856,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -1730,7 +1730,7 @@
             "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2016,
+            "stars": 2015,
             "topics": [
               "database",
               "datasets",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:50:20.661Z",
+    "last_updated": "2026-11-08T18:03:01.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
