@@ -247,7 +247,7 @@
                 "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1107,
+                "stars": 1108,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -431,7 +431,7 @@
                 "open_issues": 19,
                 "owner": "microsoft",
                 "repo": "ContextualSP",
-                "stars": 387,
+                "stars": 388,
                 "topics": [
                   "compositional-generalization",
                   "conversational-semantic-parsing",
@@ -1570,10 +1570,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-08T13:58:58Z",
-            "open_issues": 505,
+            "open_issues": 504,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20273,
+            "stars": 20279,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T19:39:14Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-09T22:38:40Z",
+            "open_issues": 14,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9769,
+            "stars": 9773,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 12,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3782,
+            "stars": 3781,
             "topics": [
               "ai",
               "awesome",
@@ -1762,7 +1762,7 @@
             "open_issues": 11,
             "owner": "premAI-io",
             "repo": "premsql",
-            "stars": 461,
+            "stars": 462,
             "topics": [
               "database",
               "llama",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:03:01.042Z",
+    "last_updated": "2026-11-09T22:39:31.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
