@@ -268,7 +268,7 @@
                 "open_issues": 3,
                 "owner": "bird-bench",
                 "repo": "BIRD-CRITIC-1",
-                "stars": 1104,
+                "stars": 1105,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T15:55:00Z",
-            "open_issues": 526,
+            "last_commit": "2026-11-14T15:40:45Z",
+            "open_issues": 530,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20293,
+            "stars": 20296,
             "topics": [
               "agents",
               "bgi",
@@ -1603,8 +1603,8 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T18:07:00Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-14T15:33:07Z",
+            "open_issues": 24,
             "owner": "tobymao",
             "repo": "sqlglot",
             "stars": 9788,
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T19:58:36.213Z",
+    "last_updated": "2026-11-14T18:26:54.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
