@@ -247,7 +247,7 @@
                 "open_issues": 70,
                 "owner": "taoyds",
                 "repo": "spider",
-                "stars": 1109,
+                "stars": 1108,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:07.551Z"
@@ -661,8 +661,8 @@
                 "id": 1066107527,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-09T08:20:56Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-17T03:34:03Z",
+                "open_issues": 22,
                 "owner": "antgroup",
                 "repo": "Agentar-Scale-SQL",
                 "stars": 479,
@@ -1569,11 +1569,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T15:11:27Z",
-            "open_issues": 526,
+            "last_commit": "2026-11-17T15:31:30Z",
+            "open_issues": 524,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20303,
+            "stars": 20304,
             "topics": [
               "agents",
               "bgi",
@@ -1603,11 +1603,11 @@
             "id": 347277349,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T21:58:58Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-17T18:48:58Z",
+            "open_issues": 1,
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9799,
+            "stars": 9798,
             "topics": [
               "bigquery",
               "clickhouse",
@@ -1691,7 +1691,7 @@
             "open_issues": 13,
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3785,
+            "stars": 3787,
             "topics": [
               "ai",
               "awesome",
@@ -1730,7 +1730,7 @@
             "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2016,
+            "stars": 2017,
             "topics": [
               "database",
               "datasets",
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:27:51.316Z",
+    "last_updated": "2026-11-17T21:16:47.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
